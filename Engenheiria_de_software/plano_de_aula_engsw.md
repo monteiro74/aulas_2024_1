@@ -91,10 +91,10 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 ---
 ### Unidade de avaliação:
 
-1. 19/outubro/2023 --> avaliação 1 <br>
-2. 28/novembro/2023 --> avaliação 2 <br>
-3. 07/dezembro/2023 --> avaliação 3 <br>
-4. 14/dezembro/2023 --> PF <br>
+Avaliação 1: / /2024 --> <br>
+Avaliação 2:  / /2024 --> <br>
+Avaliação 3: / /2024 --> <br>
+PF:  <br>
 
 ---
 ### Referências:

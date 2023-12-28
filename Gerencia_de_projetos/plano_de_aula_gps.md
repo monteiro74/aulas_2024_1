@@ -40,9 +40,6 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 | Site das disciplinas | https://sites.google.com/unemat.br/professoremiliano |
 | Sites das disciplinas no github | https://github.com/monteiro74/aulas_2023 |
 | Sistema Acadêmico | https://sigaa.unemat.br/sigaa/verTelaLogin.do |
-| Ensalamento 2023 | https://drive.google.com/file/d/1OGO5POMsAwAhiGXjCRg3okP-ArTnmNV9/view |
-| Mapa de salas 2023 | https://drive.google.com/file/d/1OJuEW5AVan6zvL02kN54l7i-ZCoTiG9t/view |
-| Horários por fase 2023 | https://docs.google.com/spreadsheets/d/15t5hQCMJpaGxfhmBYyQNqR6EZK_Dlf5_/edit#gid=1984573160 |
 
 
 
