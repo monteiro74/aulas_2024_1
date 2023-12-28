@@ -3,8 +3,6 @@ aulas_2024-1
 
 
 
-
-
 # Material, plano de ensino, links úteis, etc.
 
 
@@ -42,17 +40,19 @@ Calendário de aulas (previstas):
 ---
 ## Calendário organizado pela coordenação do curso:
 
+[Calendário](https://accounts.google.com/InteractiveLogin/signinchooser?continue=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fu%2F0%2Fd%2Fe%2F2PACX-1vQy3GULh2IMn1gUKkN9m4rpe2dtvjXYhX87joau3UH2byubfCV2zgvLBzQlxO5J1eU09NNohMH8dl8s%2Fpubhtml&followup=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fu%2F0%2Fd%2Fe%2F2PACX-1vQy3GULh2IMn1gUKkN9m4rpe2dtvjXYhX87joau3UH2byubfCV2zgvLBzQlxO5J1eU09NNohMH8dl8s%2Fpubhtml&ltmpl=sheets&osid=1&passive=1209600&service=wise&ifkv=ASKXGp37aMLiuzLSxiAhLdVWqbtuS-wWgOdLbgKIDMxat0qt3ZpHLG6yrB4tG-uAEOnXQ92rovSDVQ&theme=glif&flowName=GlifWebSignIn&flowEntry=ServiceLogin)
 
 
 ---
 ## Normatização acadêmica:
-http://www.unemat.br/resolucoes/resolucoes/conepe/2649_res_conepe_54_2011.pdf.
+
+[Resolução CONEPE](http://www.unemat.br/resolucoes/resolucoes/conepe/2649_res_conepe_54_2011.pdf).
 
 
 
 
 ---
-## ATENÇÃO
+## Atenção
 ````
 Estas páginas podem mudar sem aviso prévio.
 ````
