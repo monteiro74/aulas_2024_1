@@ -20,7 +20,7 @@ Conceitos, sistemas de gerenciamento e níveis de arquiteturas de banco de dados
 
 Aulas expositivas, dialogadas, com apresentação de conceitos teóricos/práticos, comentários de casos de interesse correlatos, comentários sobre eventuais produtos e tecnologias relacionadas ao tema da disciplina. Aulas complementares faltantes e/ou remotas/EaD, serão atribuidas com conteúdos disponíveis na plataforma SIGAA.
 
-Site da disciplina: https://sites.google.com/unemat.br/professoremiliano/inicio e https://github.com/monteiro74/aulas_2023
+Site da disciplina: https://sites.google.com/unemat.br/professoremiliano/inicio 
 
 ### Procedimentos de avaliação de aprendizagem: 
 
