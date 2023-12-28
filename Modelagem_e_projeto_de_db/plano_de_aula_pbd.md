@@ -53,28 +53,25 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 
 | Data    | Conteúdo |
 | -------- | ------- |
-| Aula 1: 09/agosto/2023 |  |
-| Aula 2: 16/agosto/2023 |  |
-| Aula 3: 23/agosto/2023 |  |
-| Aula 4: 30/agosto/2023 |  |
-| Aula 5: 06/setembro/2023 |  |
-| Aula 6: 13/setembro/2023 |  |
-| Aula 7: 20/setembro/2023 |  |
-| Aula 8: 27/setembro/2023 |  |
-| Aula 9: 11/outubro/2023 |  |
-| Aula 10: 18/outubro/2023 |  |
-| Aula 11: 25/outubro/2023 | |
-| Aula 12: 01/novembro/2023 |  |
-| Aula 13: 08/novembro/2023 |  |
-| Aula 14: 22/novembro/2023 |  |
-| Aula 15: 29/novembro/2023 | |
+| Aula 1: 28/02/2024 |  |
+| Aula 2: 06/03/2024 |  |
+| Aula 3: 13/03/2024 |  |
+| Aula 4: 20/03/2024 |  |
+| Aula 5: 27/03/2024 |  |
+| Aula 6: 03/04/2024 |  |
+| Aula 7: 10/04/2024 |  |
+| Aula 8: 17/04/2024 |  |
+| Aula 9: 24/04/2024 |  |
+| Aula 10: 08/05/2024 |  |
+| Aula 11: 15/05/2024 | |
+| Aula 12: 22/05/2024 |  |
+| Aula 13: 29/05/2024 |  |
+| Aula 14: 05/06/2024 |  |
+| Aula 15: 12/06/2024 | |
 
 
 
----
-### Diagrama 
-Usado nos exercício com comandos SQL no SQL Server:
-![Diagrama](https://raw.githubusercontent.com/monteiro74/aulas_2023/main/Modelagem_e_projeto_de_bd/diagrama1.png "Diagrama")
+
 
 ---
 ### Artigos:
@@ -90,10 +87,10 @@ Usado nos exercício com comandos SQL no SQL Server:
 
 ### Unidade de avaliação:
 
-1. 06/setembro/2023 --> avaliação 1 <br>
-2. 11/outubro/2023  --> avaliação 2 <br>
-3. 22/novembro/2023 --> avaliação 3 <br>
-4. 29/novembro/2023 --> PF <br>
+Avaliação 1: / /2024 --> <br>
+Avaliação 2:  / /2024 --> <br>
+Avaliação 3: / /2024 --> <br>
+PF: <br>
 
 ---
 
