@@ -16,7 +16,7 @@ aulas_2024-1
 ---
 # Calendário
 
-Calendário de aulas (previstas):
+Calendário de aulas (previstas no calendário):
 
 
 ## Fevereiro:
