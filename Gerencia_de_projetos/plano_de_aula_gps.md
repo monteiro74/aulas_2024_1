@@ -43,27 +43,26 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 
 
 
-
 ---
 ### Datas de aulas:
 
 | Data    | Conteúdo |
 | -------- | ------- |
-| Aula 1: 08/agosto/2023 |  Apresentação, Introdução à disciplina, conceitos iniciais. [Slides da aula1](https://drive.google.com/file/d/1ezbmpNFkRrzcqGhJzhupn8hvbl3XF3kb/preview), [Lei das startups](http://www.planalto.gov.br/ccivil_03/leis/LCP/Lcp182.htm), [Parque tecnológico](https://parquetecnologicomt.com.br/), [Localização do parque tecnológico](https://www.google.com.br/maps/@-15.5807793,-56.1970998,1020m/data=!3m1!1e3?entry=ttu). [Planejamento, o processo de planejamento, gestão de projetos x gestão de processos, portfólio, governança, programa, projeto, PMBOK, PMO, escopo, cronograma, gantt, ferramentas para gestão de projetos (MS Project, qdpm). Lei das startups.] |
-| Aula 2: 15/agosto/2023 | [Edital comentado](http://seplag.mt.gov.br/processoseletivo/index.php?processo=5&pg=informativo), [Slides usados em sala de aula](https://drive.google.com/file/d/1xugd_6ncpjy138qIUAJc6PftJedTOsFt/view), [orçamento](https://docs.google.com/spreadsheets/d/1op_P2JvybuC3W6c_vU3pKaBGzQzMMUNxQ0_DgMQ9zaA/edit#gid=917848766). [Atividade x tarefa, TAP (termo de abertura de projeto), TEP (termo de encerramento de projeto), recursos, 3 restrições de projetos, conceitos gerais, personagens, stakeholders, perguntas para cada fase do projeto, gerenciamento de custos, custos de licenças, orgamento (e suas 4 partes). ] |
-| Aula 3: 22/agosto/2023 | [Slides usados em sala de aula](https://drive.google.com/file/d/1_DUrZ1vUC-RL8UEmUpm3Kd5FaJmoRep3/view). Material EAD recomendado: [Introdução Gratuita: Preparatório on demand para o exame PMP® autorizado do PMI](https://www.pmi.org/shop/brazil/p-/elearning/introdu%C3%A7%C3%A3o-gratuita-preparat%C3%B3rio-on-demand-para-o-exame-pmp-autorizado-do-pmi/el053). [Frameworks de gerenciamento, gerênciamento de mudança, gerênciamento de requisitos, change log, versionamento semântico, road map, gráfico WBS (EAP), gráfico PERT, estrutura organizacional, principais problemas no gerenciamento de projetos, ferramentas para cada etapa do processo.] |
-| Aula 4: 29/agosto/2023 | [Slides usados em sala de aula](https://drive.google.com/file/d/1SJiN5LaFBwwE4cygsvGoLL5viDgMURjy/view), [Relacionamento entre tarefas no Project Libre](https://drive.google.com/file/d/1utMPmNl5sNZb4yNr_mj064CAdP7n5Cmi/view), [Slides sobre projetos no github](https://drive.google.com/file/d/1XBaiTdBscNiBH7nbONSPyGHzub_ciz1i/view), [Projeto exemplo no github](https://github.com/users/monteiro74/projects/7/views/1), Material EAD recomendado: [curso de project libre gratuíto na Udemy](https://www.udemy.com/course/ferramentas-do-gp-projectlibre/). |
-| Aula 5: 05/setembro/2023 | **Avaliação 1**, presencial, 19:00hs. | 
-| Aula 6: 12/setembro/2023 | Entrega de notas, [The Wip Game](https://analytics.actionableagile.com/twig/index.html), instalação do qdPM, [configuração básica do qdPM](https://docs.google.com/presentation/d/17DXUcwmQlYu2xh-w1FEyYebKDw9J7oKouW7twzzpRg4/view), [estrutura de um documento de projeto](https://drive.google.com/file/d/13aRDq4N3f6dY0-onQ3zliAJ_zzVB6y6x/view). Artigo (EAD): [O gerenciamento de projetos e sua importância para a qualidade e a efetividade no setor público](https://core.ac.uk/display/268170107?utm_source=pdf&utm_medium=banner&utm_campaign=pdf-decoration-v1). |
-| Aula 7: 19/setembro/2023 | Continuidade de análise de risco ([matriz SWOT](https://docs.google.com/presentation/d/1tZLfwg_8M-wiW6syrr2z-jO0ObRVSEgdu8S6BOXS4Tc/view)), [FPA](https://docs.google.com/presentation/d/12gp4NwJN9aBHt0c01DcDLlyYTGRSM5hDigMqohFHKdE/view), [exercícios](https://docs.google.com/presentation/d/1GzbjkTniDCgkMBzY6mN_M655YBrx_S2XM_VChNhxypY/view), [project Canvas](https://docs.google.com/presentation/d/1kdVMhmpB1TonveYTl1HSTMdJBLF_3ungmtWPnffNVpY/view), [revisão do template do documento básico de projeto](https://docs.google.com/presentation/d/1hIIXzfV-3476nOk5WrmeVcGykotot9-W9SdBb1RYCZ8/view). Artigo (EAD): [Gerência de Projetos - Teoria e Prática](https://repositorio.enap.gov.br/bitstream/1/1092/1/GerenciaDeProjeos_modulo_1_final_.pdf). Filme [Maid](https://www.netflix.com/br/title/81166770). Série [Halt and Cath Fire](https://www.amctv.com.br/series/halt-and-catch-fire). Filme [Pirates of Silicon Valley](https://play.google.com/store/movies/details/Piratas_da_Inform%C3%A1tica_LEG?id=21A4B920484F3F7AMV). Pra quem tiver interesse em conhecer os escritórios de registro de patentes, segue alguns: [Google patents](https://patents.google.com/), [INPI](https://busca.inpi.gov.br/pePI/), [USPTO](https://www.uspto.gov/patents), [CNIPA](https://english.cnipa.gov.cn/), [EPO](https://www.epo.org/en/searching-for-patents). |
-| Aula 8: 26/setembro/2023 | [Testes de software e outras considerações relativas ao projeto de software](https://docs.google.com/presentation/d/1D8pDvpk9ay1sPYyDVisYeD1DNCqNMWXNuv9qVinBkgo/view), [Controle de versão](https://docs.google.com/presentation/d/1xCr8zgIgcdT8SvBa0FAllQ2981W8arD3rYtNM1mNY-U/view), [Canvas](https://docs.google.com/presentation/d/1A1jWfsiDO5H2sRBzIMg7QwDK2nfU1TCvRM9ofzu-h88/view), Artigo (EAD): [Gerência de projetos: uma reflexão histórica](https://www.scielo.br/j/rae/a/Fkq59q8FCfMvqhLPbQpx3pt/). [Business Model Canvas, Project Canvas, Controle de versão (Git, Github, Subversion, Tortoise, TFS (Team foundation server) x Azure Devops Server, Mercurial, avaliação e validação, aspectos relacionados com testes, caixa preta e caixa branca, plano de testes.] |
-| Aula 9: 10/outubro/2023 |  Revisão de métodos ágeis. [Slides usados em aula](https://docs.google.com/presentation/d/1KE7EI0Jo5TK5b-AWQuEGdvZ-zbtK-7YFuKs3cz7mwOk/view) [Timeline, exemplos de processo ágeis, agile unified process, OpenUP, o manifesto ágil, visual geral do scrum, ferramentas para analise de requisitos, software de prateleira, legislação.] |
-| Aula 10: 17/outubro/2023 | **Avaliação 2**, presencial, 19:00hs. |
-| Aula 11: 24/outubro/2023 | Uso ferramenta IDE RAD para desenvolvimento de sistema. |
-| Aula 12: 31/outubro/2023 | Uso ferramenta IDE RAD para desenvolvimento de sistema. |
-| Aula 13: 07/novembro/2023 | [Qualidade de software](https://docs.google.com/presentation/d/1Ggju5BlWGVyCM9nkJNPuazP_-sXcOvS9WBSWHonV_ro/view), [definições IDE e RAD](https://docs.google.com/presentation/d/1xrxXxg1Z19kK8A2ui5QPr0mVEHeT_BVOXKbxZlOXIOo/view). Ferramenta comentada: [MESUR](https://www.fattocs.com/mesur/). Canal de [vagas de TI no telegram](https://t.me/vagastibr). |
-| Aula 14: 14/novembro/2023 | **Avaliação 3**, presencial, 19:00hs.|
-| Aula 15: 21/novembro/2023 | **PF**, presencial, 19:00hs. Entrega de notas e provas remanescentes. |
+| Aula 1: 27/02/2024 |   |
+| Aula 2: 05/03/2024 |  |
+| Aula 3: 12/03/2024 |  |
+| Aula 4: 19/03/2024 |  |
+| Aula 5: 26/03/2024 |  | 
+| Aula 6: 02/04/2024|  |
+| Aula 7: 09/04/2024 |  |
+| Aula 8: 16/04/2024 |  |
+| Aula 9: 23/04/2024 |   |
+| Aula 10: 30/04/2024 |  |
+| Aula 11: 07/05/2024 |  |
+| Aula 12: 14/05/2024 |  |
+| Aula 13: 21/05/2024 |  |
+| Aula 14: 28/05/2024 | |
+| Aula 15: 04/06/2024 |  |
 
 ---
 ### Artigos:
@@ -76,10 +75,12 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 ---
 ### Unidade de avaliação:
 
-1. 05/setembro/2023 --> avaliação 1 <br>
-2. 17/outubro/2023 --> avaliação 2 <br>
-3. 14/novembro/2023 --> avaliação 3 <br>
-4. 21/novembro/2023 --> PF
+Avaliação 1: / /2024 --> <br>
+Avaliação 2:  / /2024 --> <br>
+Avaliação 3: / /2024 --> <br>
+PF: <br>
+
+
 ---
 ### Referências:
 

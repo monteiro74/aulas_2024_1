@@ -49,27 +49,25 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 
 
 ---
-
-
 ### Datas de aulas:
 
 | Data    | Conteúdo |
 | -------- | ------- |
-| Aula 1: 09/agosto/2023 |  Apresentação, Introdução à disciplina, conceitos iniciais. [Aula 1](https://drive.google.com/file/d/1pzQGVTNdiqL4W3GPvSN5dC2VJwkMUiTZ/preview), [Comandos SQL](https://drive.google.com/file/d/1FqdPaw1eTnTByItNcw3dfqQHBbVU5T6v/preview), [Instalação do SQL Server](https://drive.google.com/file/d/1lCodgLM-liRiJr4qu22iaKW2hRZKNG4G/preview), [Lei das startups](http://www.planalto.gov.br/ccivil_03/leis/LCP/Lcp182.htm), [Pacote com MySQL para Windows](https://laragon.org/download/).|
-| Aula 2: 16/agosto/2023 | [Edital comentado](http://seplag.mt.gov.br/processoseletivo/index.php?processo=5&pg=informativo), [Slides usados em sala de aula](https://drive.google.com/file/d/1lSmoXUbJXdAUWccD0B8MpxcPJ26twxM5/view), [Slides sobre o SSMS](https://drive.google.com/file/d/1t_EWpW6B41DrX7Os-ZQWhsfPTJAns9Qx/view). |
-| Aula 3: 23/agosto/2023 | [Comandos básicos para o SQL Server](https://drive.google.com/file/d/1yJap49sFMITUCU3YYb8QNhyqWIn1J10T/view). [Diagrama ER](https://drive.google.com/file/d/17x8wodzBMEkAc7NbxgTTHzprtTzMJaGK/view). [Slides](https://drive.google.com/file/d/1VYOpM4iWn50cFJ_wEZzECOaMZvK-r94l/view) usados em sala de aula. |
-| Aula 4: 30/agosto/2023 | [Slides usados em aula](https://drive.google.com/file/d/1Uy2Wr8gOpRsLKhJFlUEWCsk1f-qGTlvs/view), [Comandos do SQL server](https://drive.google.com/file/d/1zNDoQPG-mwp6MYEPf4Dofuq-ZznU3SKz/view), [Material sobre o SQL Server](https://drive.google.com/file/d/1ZOFScY1zP27OBbSBo72TWBnZAR_iTzFe/view).|
-| Aula 5: 06/setembro/2023 | **Avaliação 1**, presencial, 19:00hs.|
-| Aula 6: 13/setembro/2023 | Entrega de provas, DW, BI, modelos floco de neve e estrela, OLTP x OLAP, tabela dinâmica, Power BI, Google Looker e drivers ODBC, [Slides usados em sala de aula](https://docs.google.com/presentation/d/1w65uEsfPWt8_KHsCLp1Bjqq-HchffUuI4Q0dkavPXEI/view#slide=id.p1). Geradores de dados artificiais (ou randômicos) para testes: [Mockaro](https://www.mockaroo.com/), [GenerateData](https://generatedata.com/generator) e [Randat](http://www.randat.com/).|
-| Aula 7: 20/setembro/2023 | Instalação e introdução ao: SQL Server 2022, Sql Server Management Studio, DBeaver e HeidiSQL. Alunos devem trazar os software previamente baixado conforme [instruções](https://docs.google.com/presentation/d/1tijfYzSJJBVHTfVt5A7KnvCO9iEXkW9PblEpe2nZa7A/view#slide=id.p1). |
-| Aula 8: 27/setembro/2023 | [Comandos SQL no SQL Server](https://drive.google.com/file/d/1H8Cci-SczpoSaFX8_H2TI5t7WFSXgZkz/view); [Comandos atualizados](https://github.com/monteiro74/aulas_2023/blob/main/Modelagem_e_projeto_de_bd/Comandos_SQLServer_SQLQuery_v9.sql). |
-| Aula 9: 11/outubro/2023 | **Avaliação 2**, presencial, 19:00hs. 2a parte da aula: Continuidade com os comandos SQL executados no SQL Server. Microsoft Access: criação de tabelas, tipos de dados, modos de exibição (folha de dados e design), Relações (1-N), Criação de formulário. Mais atividades dentro do SSMS, [slides](https://docs.google.com/presentation/d/1TTWojYRACWPmr_VlWsdX3_oE8kJjrWeaMnczN9euQ4k/view). SQL JOIN, [slides](https://docs.google.com/presentation/d/13_IEW_3MSDdBA2AgssIEfhfKfFGhYPgf_aACj9ifew4/view). |
-| Aula 10: 18/outubro/2023 | Bancos NoSQL, [slides usados em sala de aula](https://docs.google.com/presentation/d/1g9kyVdLsT1sBN-ZLZ3cr_eGNj9QpJAW9GXrU_TpHGx8/view), [exercícios](https://drive.google.com/file/d/1CWzfxfPXXMgSOxaGH4plAh5_6cMsaMoM/view) ou [script](https://github.com/monteiro74/aulas_2023/blob/main/Modelagem_e_projeto_de_bd/mongodb.json) no [MongoDB](https://www.mongodb.com/try/download/community). [Studio 3T](https://studio3t.com/download-thank-you/?OS=win64). [Laragon](https://laragon.org/download/index.html). [Scriptcase](https://www.scriptcase.com.br/download/).  [Script SQL](https://drive.google.com/file/d/1IEjMimkKKQiDJqVZQy5AdRF8JHH3r25m/view) usado com MySQL no exercício com Scriptcase. |
-| Aula 11: 25/outubro/2023 | Continuação dos exercícios com o Scriptcase (será usado este [script](https://drive.google.com/file/d/1IEjMimkKKQiDJqVZQy5AdRF8JHH3r25m/view) (outro link para o mesmo [script](https://github.com/monteiro74/aulas_2023/blob/main/Modelagem_e_projeto_de_bd/script_sql_mysql.sql)) no MySQL). Alunos devem trazer notebook. Mais uma [tabela](https://github.com/monteiro74/aulas_2023/blob/main/Modelagem_e_projeto_de_bd/imovel.txt) de dados para importarmos de [fonte dos dados abertos](https://transparencia.al.gov.br/portal/download-de-dados/patrimonio/imobiliario).|
-| Aula 12: 01/novembro/2023 | Blockchain, continuidade dos trabalhos com MySQL e IDE RAD Scriptcase. |
-| Aula 13: 08/novembro/2023 | [Resumo do que foi apresentado até o momento sobre SQL Server](https://docs.google.com/presentation/d/184eNt6hnJVZsL6C6ZWFDZ1wwDKDYlJUrGKSPK1CbIFY/view). Material no Github sobre [blockchain](https://github.com/monteiro74/blockchain). Tutorial de [Multichain](https://www.multichain.com/getting-started/). Canal do [BACEN](https://t.me/bancocentraloficial) no Telegram. Slides da aula sobre a blockchain [Multichain](https://docs.google.com/presentation/d/1LFEqiI7L010teLuERPmgNaFLXqcPjgUFpeMI56MfkX4/view). [Noticias sobre a FTX](https://www.cnnbrasil.com.br/tudo-sobre/ftx/). [Filme comentado sobre cripto](https://www.netflix.com/br/title/81349029). Notícia sobre a mudança do Ethereum de PoW para [PoS](https://www.infomoney.com.br/guias/proof-of-stake-pos-ethereum/). |
-| Aula 14: 22/novembro/2023 | **Avaliação 3**, presencial, 19:00hs. |
-| Aula 15: 29/novembro/2023 | **PF**, presencial, 19:00hs. Entrega de notas e provas remanescentes.|
+| Aula 1: 09/agosto/2023 |  |
+| Aula 2: 16/agosto/2023 |  |
+| Aula 3: 23/agosto/2023 |  |
+| Aula 4: 30/agosto/2023 |  |
+| Aula 5: 06/setembro/2023 |  |
+| Aula 6: 13/setembro/2023 |  |
+| Aula 7: 20/setembro/2023 |  |
+| Aula 8: 27/setembro/2023 |  |
+| Aula 9: 11/outubro/2023 |  |
+| Aula 10: 18/outubro/2023 |  |
+| Aula 11: 25/outubro/2023 | |
+| Aula 12: 01/novembro/2023 |  |
+| Aula 13: 08/novembro/2023 |  |
+| Aula 14: 22/novembro/2023 |  |
+| Aula 15: 29/novembro/2023 | |
 
 
 
