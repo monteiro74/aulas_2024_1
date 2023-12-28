@@ -39,9 +39,6 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 | Site das disciplinas | https://sites.google.com/unemat.br/professoremiliano |
 | Sites das disciplinas no github | https://github.com/monteiro74/aulas_2023 |
 | Sistema Acadêmico | https://sigaa.unemat.br/sigaa/verTelaLogin.do |
-| Ensalamento 2023 | https://drive.google.com/file/d/1OGO5POMsAwAhiGXjCRg3okP-ArTnmNV9/view |
-| Mapa de salas 2023 | https://drive.google.com/file/d/1OJuEW5AVan6zvL02kN54l7i-ZCoTiG9t/view |
-| Horários por fase 2023 | https://docs.google.com/spreadsheets/d/15t5hQCMJpaGxfhmBYyQNqR6EZK_Dlf5_/edit#gid=1984573160 |
 
 
 
@@ -62,47 +59,23 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 
 | Data    | Conteúdo |
 | -------- | ------- |
-| Aula 1: 17/agosto/2023 | Apresentação, Introdução à disciplina. Leitura dos artigos: [Competências do engenheiro de software](https://www.sbc.org.br/images/flippingbook/computacaobrasil/computa_28/cb2015-03.pdf) e [A gestão do conhecimento no apoio à gestão do requisitos em software](https://www.simpep.feb.unesp.br/anais/anais_13/artigos/125.pdf). [Slides usados em sala de aula](https://drive.google.com/file/d/1FDMxQ2J6jcS0wQ7NVJVvPt8-dwP7Ukt8/view), [algumas referências bibliográficas](https://drive.google.com/file/d/1ljmpEpKm43i_RJuic7Oogedcl2fBQKUP/view). Conceito de engenharia de software, análise de sistemas, analista de sistemas, o que é um sistema, características de softwares, crise de software, processos de software, cascata, espiral, modelo v, prototipação, rup, iteração x interação. |
-| Aula 2: 24/agosto/2023 | [Slides usados em sala de aula](https://drive.google.com/file/d/1KyBfHEOIsEw0_lYCcdb7dEYXG3metMVB/view). Processo PSP, níveis do PSP, processo de desenvolvimento ágil, o manifesto ágil, o processo scrum, kanban board, análise de requisitos, UML.|
-| Aula 3: 31/agosto/2023 | [Slides usados em sala de aula](https://drive.google.com/file/d/1d7rBg0QokLDOlUArQ4JyhNIAd0Xt9F9G/view?usp=sharing). UML, ferramentas para diagramação, exemplos de diagramas, arquitetura de software, projeto oo, programação estruturada, modelo de execução de código, desaenvolvimento em camadas.|
-| Aula 4: 28/setembro/2023 | [Revisão de UML](https://docs.google.com/presentation/d/1U1a1gnEqST9obmZ3BW8NMQl6CMrGJc5C9C5CzC-cNi4/view), [Slides usados em sala de aula](https://docs.google.com/presentation/d/1jG0l3rOCl_09EBnARzNIvkL-NxlNGaPyT8q2f3S_QBg/view). Linguagens de programação, exemplos de implementação de classes, CASE, Ferramentas para documentação de código. |
-| Aula 5: 19/outubro/2023 | **Avaliação 1**, presencial, 19:00hs. |
-| Aula 6: 26/outubro/2023 | Conceitos sobre modelos, UML e processos de software; [slides](https://docs.google.com/presentation/d/1w4qXzk3zR__WvzhL6sFFHjoc1bIxmBldJPG9bzOeaVQ/view) usados em sala de aula. [Lista de exercícios](https://docs.google.com/document/d/1x7_jrUc6lSOWK6nVZiF04im3GFhCVNjVpXTDFc38PbI/view) para hoje. [Arquivo](https://drive.google.com/file/d/1ZuS1-82skEblg6WaKlhLXDiCfg3ieRpl/view?usp=sharing) do StarUML. Artefato de software, go no-go, critórios de aceitação,  conceito de pronto, modelo, sistema, pacote, namespace, estereótipo, modelagem visual, processo sob medida.|
-| Aula 7: 09/novembro/2023 | Scrum, requisitos, modelagem visual, considerações sobre programação, considerações sobre o banco de dados. Softwares utilizados em sala de aula: [HeidiSQL](https://dbeaver.io/download/), [DBeaver](https://www.heidisql.com/download.php), [Laragon](https://laragon.org/download/index.html). [Slides usados em sala](https://docs.google.com/presentation/d/1V7mlA8tKOOkDkZDb5u4DH88YbYVWOVIKLMXnxryPGoM/view). |
-| Aula 8: 16/novembro/2023 | IDE x CASE, Instalação do [Scriptcase](https://www.scriptcase.com.br/download/). [Script SQL](https://github.com/monteiro74/aulas_2023/blob/main/Engenharia_de_software/script_sql_engsw.sql) para ser usado em aula. [Arquitetura de software](https://docs.google.com/presentation/d/1KwIbdQ5EpCloKJq59EGZsqfYXuvFiVZG-TX695RE5EI/view). |
-| Aula 9: 23/novembro/2023 | Arquitetura e documentação (ágil), arquitetura centralizada, quantidade de módulos, arquitetura de fluxo, componentes, webapp, projeto visual, projeto de navegação, experiência de usuário, wireframe, mockup, protótipo, ide, rad, framework. [Slides usados em sala de aula](https://docs.google.com/presentation/d/1iK8sxLkesxWQBYzlxI9pQepjkjxJndHQ5mNBHOop5ho/view). Projeto: construção de um sistema web para controle de projetos, requisitos e tarefas (aula1). |
-| Aula 10: 27/novembro | Projeto: construção de um sistema web para controle de projetos, requisitos e tarefas (aula2). [Códigos do mestre-detalhe](https://github.com/monteiro74/aulas_2023/blob/main/Engenharia_de_software/codigo.txt). |
-| Aula 11: 28/novembro/2023 | Projeto: construção de um sistema web para controle de projetos, requisitos e tarefas (aula3). Script SQL da tabela [responsável](https://github.com/monteiro74/aulas_2023/blob/main/Engenharia_de_software/responsaveis.sql), [slides usados em sala de aula](https://docs.google.com/presentation/d/1faqupQHyN2wjYI0VKv_XW5lKX7k6cAinN0j-6RXKdWU/view).|
-| Aula 12: 30/novembro/2023 | **Avaliação 2**, presencial, 19:00hs [Projeto de sistema na versão final](https://sites.google.com/unemat.br/professoremiliano/engsw/projeto_sistema). Resumo do projeto: Detalhes do projeto: Banco de dados MariaDB/MySQL, com 5 tabelas, relacionamentos e 1 view. Detalhes das aplicações: 27 aplicações entre elas: grid, forms, gráficos, mestre-detalhe, relatórios e módulos de segurança. Feito o empacotamento e deploy no Apache (do Laragon) e demonstrada a instalação neste Apache. A aplicação web também foi demonstrada e testada rodando dentro de uma webview em um cel. Android via Android Studio. |
-| Aula 13: 05/dezembro/2023 | Aula presencial e revisão final. Documentação automática de sistemas, app controle e filtro no projeto final [Slides usados em sala de aula](https://docs.google.com/presentation/d/126OTRtN17h63k1F2ruyRW3BU6F3p_Ol5_8-rVNrqtRU/view). [Diagramas resumo para engenharia de software](https://github.com/monteiro74/diagramas_resumo). |
-| Aula 14: 06/dezembro/2023 | **Avaliação 3**, presencial, 19:00hs. |
-| Aula 15: 14/dezembro/2023 | **PF**, presencial, 19:00hs. Entrega de notas e provas remanescentes. |
-
----
-### Códigos do formulário detalhe:
-
-```php 
-sc_lookup (dataset, "select SUM(Custo) FROM tarefas WHERE IdProjeto = {IdProjeto}");
-
-if (! empty ({dataset [0] [0]}))
-{
-$CustoTotal = {dataset [0] [0]};
-sc_exec_sql ("UPDATE projetos SET CustoTotal = $CustoTotal WHERE IdProjeto = {IdProjeto}"); 
-sc_format_num ($CustoTotal, '.', ',', 2, 'S', '1', '');
-sc_master_value ('CustoTotal', $CustoTotal);
-} else {
-$CustoTotal = 0;
-sc_format_num ($CustoTotal, '.', ',', 2, 'S', '1', '');
-sc_master_value ('CustoTotal', $CustoTotal);
-}
-```
+| Aula 1: 29/02/2024 |  |
+| Aula 2: 07/03/2024 | |
+| Aula 3: 014/03/2024 | |
+| Aula 4: 21/03/2024 |  |
+| Aula 5: 28/03/2024 |  |
+| Aula 6: 04/04/2024 | |
+| Aula 7: 11/04/2024 |  |
+| Aula 8: 18/04/2024 |  |
+| Aula 9: 25/04/2024 |  |
+| Aula 10: 02/05/2024 |  |
+| Aula 11: 09/05/2024 | |
+| Aula 12: 16/05/2024 |  |
+| Aula 13: 23/05/2024 |  |
+| Aula 14: 06/06/2024 |  |
+| Aula 15: 20/06/2024 |  |
 
 
----
-### Diagrama usado em sala de aula: 
-(No projeto de desenvolvimento web)
-
-![Diagrama usado em sala de aula](https://raw.githubusercontent.com/monteiro74/aulas_2023/main/Engenharia_de_software/diagrama_aula11.png)
 
 
 ---
@@ -136,16 +109,13 @@ sc_master_value ('CustoTotal', $CustoTotal);
 ---
 ### Demais Disciplinas:
 
-1. Engenharia de Software https://github.com/monteiro74/aulas_2023/blob/main/Engenharia_de_software/plano_de_aula_engsw.md
-2. Gestão de projeto de software https://github.com/monteiro74/aulas_2023/blob/main/Gerencia_de_projetos/plano_de_aula_gps.md
-3. Modelagem e projeto de banco de dados https://github.com/monteiro74/aulas_2023/blob/main/Modelagem_e_projeto_de_bd/plano_de_aula_pbd.md
-
+1. Engenharia de Software 
+2. Gestão de projeto de software 
+3. Modelagem e projeto de banco de dados 
 
 ---
 ### Lista de ferramentas:
 [Lista de ferramentas de desenvolvimento de software](https://github.com/monteiro74/lista_de_ferramentas)
-
-
 
 
 ---
@@ -154,8 +124,6 @@ sc_master_value ('CustoTotal', $CustoTotal);
 Alguns livros teóricos (apesar da idade) ainda bem interessantes:
 
 ![Livros](https://raw.githubusercontent.com/monteiro74/aulas_2023/main/figuras/livros3.jpg "livros")
-
-
 
 
 ---
@@ -195,5 +163,4 @@ Quem tiver uma $$$ sobrando, os livros citados estão aqui na Amazon:
 ## Google Trends
 
 Fonte: https://trends.google.com.br/trends/explore?cat=1227&date=today%205-y&q=BPMN,class%20diagram,use%20case%20diagram,ERD,DFD&hl=pt-BR
-
 
