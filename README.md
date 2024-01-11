@@ -18,13 +18,16 @@ aulas_2024-1
 
 Calendário de aulas (previstas no calendário):
 
-FASE 4:
+## FASE 4:
 ![https://raw.githubusercontent.com/monteiro74/aulas_2024_1/main/figuras/fase4a.PNG](https://raw.githubusercontent.com/monteiro74/aulas_2024_1/main/figuras/fase4a.PNG)
 
 ![https://raw.githubusercontent.com/monteiro74/aulas_2024_1/main/figuras/fase4b.PNG](https://raw.githubusercontent.com/monteiro74/aulas_2024_1/main/figuras/fase4b.PNG)
 
-FASE 8:
+## FASE 8:
 
+![https://raw.githubusercontent.com/monteiro74/aulas_2024_1/main/figuras/fase8a.PNG](https://raw.githubusercontent.com/monteiro74/aulas_2024_1/main/figuras/fase8a.PNG)
+ 
+![https://raw.githubusercontent.com/monteiro74/aulas_2024_1/main/figuras/fase8b.PNG](https://raw.githubusercontent.com/monteiro74/aulas_2024_1/main/figuras/fase8b.PNG)
 
 ---
 ## Calendário organizado pela coordenação do curso:
@@ -48,7 +51,7 @@ Estas páginas podem mudar sem aviso prévio.
 ````
 
 ---
-## Repositório de apoio no github:
+## Repositórios de apoio no github:
 https://github.com/monteiro74?tab=repositories
 
 ---
