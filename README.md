@@ -19,9 +19,11 @@ aulas_2024-1
 Calendário de aulas (previstas no calendário):
 
 FASE 4:
+![https://raw.githubusercontent.com/monteiro74/aulas_2024_1/main/figuras/fase4a.PNG](https://raw.githubusercontent.com/monteiro74/aulas_2024_1/main/figuras/fase4a.PNG)
 
+![https://raw.githubusercontent.com/monteiro74/aulas_2024_1/main/figuras/fase4b.PNG](https://raw.githubusercontent.com/monteiro74/aulas_2024_1/main/figuras/fase4b.PNG)
 
-FASE 5:
+FASE 8:
 
 
 ---
