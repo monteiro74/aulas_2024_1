@@ -48,21 +48,21 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 
 | Data    | Conteúdo |
 | -------- | ------- |
-| Aula 1: 27/02/2024 |   |
-| Aula 2: 05/03/2024 |  |
-| Aula 3: 12/03/2024 |  |
-| Aula 4: 19/03/2024 |  |
-| Aula 5: 26/03/2024 |  | 
-| Aula 6: 02/04/2024|  |
-| Aula 7: 09/04/2024 |  |
-| Aula 8: 16/04/2024 |  |
-| Aula 9: 23/04/2024 |   |
-| Aula 10: 30/04/2024 |  |
-| Aula 11: 07/05/2024 |  |
-| Aula 12: 14/05/2024 |  |
-| Aula 13: 21/05/2024 |  |
-| Aula 14: 28/05/2024 | |
-| Aula 15: 04/06/2024 |  |
+| Aula 1: 27/02/2024 | Apresentação da disciplina, Conceitos básicos sobre projeto e gestão de projeto, referências bibliográficas básicas. Conceito de planejamento, o processo de planejamento, portfolio, governança, programa, projeto, pmbok, pmo, escopo, cronograma, gantt, microsoft project, qdpm. |
+| Aula 2: 05/03/2024 | Projeto x Atividade x Tarefa, TAP, TEP, recursos, restrições, definição sucesso, personagens, stakeholders, TFS, VSLS, perguntas para cada fase do projeto, gerenciamento de custos e gerenciamento de licenças. |
+| Aula 3: 12/03/2024 | Frameworks de gerenciamento, gerenciamento de mudança, gerenciamento de requisitos, change log, road map, wbs, pert, estrutura organizacional, custo x pessoal, equipe de projeto, problemas do gerenciamento de projeto, ferramenta por etapas. |
+| Aula 4: 19/03/2024 | Análise de risco, cálculo do risco, identificação de ameaças, gerenciamento de risco, equipe de análise de risco, escopo, valor, mapeamento, fator de exposição, mensurar impacto. |
+| Aula 5: 26/03/2024 | Avaliação 1 | 
+| Aula 6: 02/04/2024 | Estrutura do projeto, TWIG, qdPM + ProjectLibre |
+| Aula 7: 09/04/2024 | Estrutura do projeto, FPA, SWOT, Project Canvas. |
+| Aula 8: 16/04/2024 | Controle de versão, testes, qualidade, exercícios. |
+| Aula 9: 23/04/2024 | Métodos ágeis. |
+| Aula 10: 30/04/2024 | Avaliação 2 |
+| Aula 11: 07/05/2024 | Funções do gerente de projeto, IDE x RAD, descrição do projeto exercício. |
+| Aula 12: 14/05/2024 | Implementação do banco de dados, instalação de ferramenta, desenv. Proj. |
+| Aula 13: 21/05/2024 | Níveis de maturidade, CMMI, implementação do banco de dados, instalação de ferramenta, desenv. Proj.  |
+| Aula 14: 28/05/2024 | Avaliação 3 |
+| Aula 15: 04/06/2024 | PF |
 
 ---
 ### Artigos:
@@ -75,10 +75,10 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 ---
 ### Unidade de avaliação:
 
-Avaliação 1: / /2024 --> <br>
-Avaliação 2:  / /2024 --> <br>
-Avaliação 3: / /2024 --> <br>
-PF: <br>
+Avaliação 1: 26/03/2024 <br>
+Avaliação 2: 30/04/2024 <br>
+Avaliação 3: 28/05/2024 <br>
+PF: 04/06/2024 <br>
 
 
 ---
