@@ -61,21 +61,21 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 
 | Data    | Conteúdo |
 | -------- | ------- |
-| Aula 1: 29/02/2024 |  |
-| Aula 2: 07/03/2024 | |
-| Aula 3: 014/03/2024 | |
-| Aula 4: 21/03/2024 |  |
-| Aula 5: 28/03/2024 |  |
-| Aula 6: 04/04/2024 | |
-| Aula 7: 11/04/2024 |  |
-| Aula 8: 18/04/2024 |  |
-| Aula 9: 25/04/2024 |  |
-| Aula 10: 02/05/2024 |  |
-| Aula 11: 09/05/2024 | |
-| Aula 12: 16/05/2024 |  |
-| Aula 13: 23/05/2024 |  |
-| Aula 14: 06/06/2024 |  |
-| Aula 15: 20/06/2024 |  |
+| Aula 1: 29/02/2024 | Introdução. Referências bibliográficas. Conceitos de engenharia de software, análise de sistemas, analista de sistemas, processos de software, RUP, métodos ágeis. |
+| Aula 2: 07/03/2024 | Processos de software, processos ágeis, SCRUM, Kanban, análise de requisitos, introdução à UML. |
+| Aula 3: 14/03/2024 | Revisão de UML, processo de desenvolvimento OO. |
+| Aula 4: 21/03/2024 | Linguagens de programação, Ferramentas CASE, revisão de UML, revisão para avaliação 1. |
+| Aula 5: 28/03/2024 | Avaliação 1 |
+| Aula 6: 04/04/2024 | Conceitos de processo, modelagem visual, modelagem de processos, processos sob medida. |
+| Aula 7: 11/04/2024 | Processo SCRUM, considerações sobre programação, considerações sobre banco de dados. |
+| Aula 8: 18/04/2024 | Arquitetura de software.  |
+| Aula 9: 25/04/2024 | Árquitetura, módulos, fluxo, camadas, componente, RAD x IDE. |
+| Aula 10: 02/05/2024 | Avaliação 2 |
+| Aula 11: 09/05/2024 | Métodos RAD, instalação de banco de dados e ferramenta IDE RAD. |
+| Aula 12: 16/05/2024 | Documentação de software, cpanel, projeto de software com ferramenta IDE RAD. |
+| Aula 13: 23/05/2024 | Projeto de software com ferramenta IDE RAD. |
+| Aula 14: 06/06/2024 | Avaliação 3 |
+| Aula 15: 20/06/2024 | PF |
 
 
 
@@ -93,10 +93,10 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 ---
 ### Unidade de avaliação:
 
-Avaliação 1: / /2024 --> <br>
-Avaliação 2:  / /2024 --> <br>
-Avaliação 3: / /2024 --> <br>
-PF:  <br>
+Avaliação 1: 28/03/2024 <br>
+Avaliação 2: 02/05/2024 <br>
+Avaliação 3: 06/06/2024 <br>
+PF: 20/06/2024 <br>
 
 ---
 ### Referências:

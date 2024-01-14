@@ -85,10 +85,10 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 
 ### Unidade de avaliação:
 
-Avaliação 1: / /2024 --> <br>
-Avaliação 2:  / /2024 --> <br>
-Avaliação 3: / /2024 --> <br>
-PF: <br>
+Avaliação 1: 27/03/2024 <br>
+Avaliação 2: 08/05/2024 <br>
+Avaliação 3: 05/06/2024 <br>
+PF: 12/06/2024 <br>
 
 ---
 
