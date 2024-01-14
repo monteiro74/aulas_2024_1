@@ -38,7 +38,7 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 | --- | --- |
 | Site do professor | https://www.pontodeensino.com/ |
 | Site das disciplinas | https://sites.google.com/unemat.br/professoremiliano |
-| Sites das disciplinas no github | https://github.com/monteiro74/aulas_2023 |
+| Sites das disciplinas no github | https://github.com/monteiro74/aulas_2024_1 |
 | Sistema Acadêmico | https://sigaa.unemat.br/sigaa/verTelaLogin.do |
 
 
