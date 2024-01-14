@@ -10,8 +10,6 @@
 
 
 
-
-
 ### Ementa:
 
 Conceitos, sistemas de gerenciamento e níveis de arquiteturas de banco de dados; Modelo Relacional: Conceitos, Restrições e Normalização; Modelos de banco de dados não-relacional.
@@ -53,21 +51,21 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 
 | Data    | Conteúdo |
 | -------- | ------- |
-| Aula 1: 28/02/2024 |  |
-| Aula 2: 06/03/2024 |  |
-| Aula 3: 13/03/2024 |  |
-| Aula 4: 20/03/2024 |  |
-| Aula 5: 27/03/2024 |  |
-| Aula 6: 03/04/2024 |  |
-| Aula 7: 10/04/2024 |  |
-| Aula 8: 17/04/2024 |  |
-| Aula 9: 24/04/2024 |  |
-| Aula 10: 08/05/2024 |  |
-| Aula 11: 15/05/2024 | |
-| Aula 12: 22/05/2024 |  |
-| Aula 13: 29/05/2024 |  |
-| Aula 14: 05/06/2024 |  |
-| Aula 15: 12/06/2024 | |
+| Aula 1: 28/02/2024 | Apresentação da disciplina, Conceitos básicos sobre bancos de dados, revisão sobre banco de dados. Cacaterísticas de bancos de dados, Motivação para uso de um banco de dados. Comparando um SGBD com um SO. Sistemas multiusuário x monousuário. Tipos de usuários. Perfil do Admin de banco de dados. Top database ranking. |
+| Aula 2: 06/03/2024 | Comparativo SGBD x Arquivo de dados. Níveis da arquitetura. Sobre estruturas de armazenamento. Buffering. Operações com arquivos. Métodos de acesso. Tipos de arquivos. Índices. Processamento de consultas. Métodos de pesquisa e execução de consultas. |
+| Aula 3: 13/03/2024 | Processamento e controle de transação, concorrência e bloqueio, diagrama de transição de estados no processamento de transações, logs, modelo de dados em rede, modelo de dados hierarquico, modelo de dados relacional, entidades, atributos, relacionamentos, cardinalidade, regras de integridade, modelo lógico x físico, modelo global x particionado, dicionário de dados. |
+| Aula 4: 20/03/2024 | Projeto de base de dados, normalização, ETL, exercícios. |
+| Aula 5: 27/03/2024 | Avaliação 1 |
+| Aula 6: 03/04/2024 | DW, OLAP x OLTP, Cubo de dados, dimensão x fato, floco de neve, BI, criação de banco de dados na núvem. |
+| Aula 7: 10/04/2024 | Revisão de instalação de SQL Server e outros bancos. Serviço x Instância de banco. |
+| Aula 8: 17/04/2024 | SQL Joins, exercícios com SQL. |
+| Aula 9: 24/04/2024 | SQL Joins, exercícios com SQL, Bancos relacionais x não relacionais. |
+| Aula 10: 08/05/2024 | Avaliação 2 |
+| Aula 11: 15/05/2024 | Bancos NoSQL + Exercícios. |
+| Aula 12: 22/05/2024 | Blockchain + Projeto exercício. |
+| Aula 13: 29/05/2024 | Blockchain + Projeto exercício. |
+| Aula 14: 05/06/2024 | Avaliação 3 |
+| Aula 15: 12/06/2024 | PF |
 
 
 
