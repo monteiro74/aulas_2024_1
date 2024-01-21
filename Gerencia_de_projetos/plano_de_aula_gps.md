@@ -103,13 +103,6 @@ Lista de ferramentas:
 
 
 
----
-### Curiosidades:
-
-Alguns livros teóricos (apesar da idade) ainda bem interessantes:
-
-![Livros](https://raw.githubusercontent.com/monteiro74/aulas_2023/main/figuras/livros2.jpg "livros")
-
 
 ---
 ## Onde adquirir livros? 
@@ -128,7 +121,7 @@ Quem tiver uma $$$ sobrando, os livros citados estão aqui na Amazon:
 ---
 ## Outros livros
 
-![Livro sobre gestão de projetos](https://raw.githubusercontent.com/monteiro74/aulas_2023/main/figuras/livro5.jpg)
+![Livro sobre gestão de projetos](https://lh6.googleusercontent.com/-Ce67bkLdK-w4rMbcX3-zxCv-B-Da3Ki99OBg4fmZxADhhp9RhgCTL5l8Uo4FxzZRPBJjKWzMcQnrh0a9Fxfs-e4jUIlXbqKscnjqSC1t8QszVkcVb3SHP9TDIPbj3Bz4Q=w1280)
 
 ---
 ## Curso **grátis** sobre gerência de projetos:

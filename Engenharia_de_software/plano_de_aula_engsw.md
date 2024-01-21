@@ -120,13 +120,6 @@ PF: 20/06/2024 <br>
 [Lista de ferramentas de desenvolvimento de software](https://github.com/monteiro74/lista_de_ferramentas)
 
 
----
-### Curiosidades:
-
-Alguns livros teóricos (apesar da idade) ainda bem interessantes:
-
-![Livros](https://raw.githubusercontent.com/monteiro74/aulas_2023/main/figuras/livros3.jpg "livros")
-
 
 ---
 ## Onde adquirir livros? 
@@ -150,7 +143,7 @@ Quem tiver uma $$$ sobrando, os livros citados estão aqui na Amazon:
 ---
 ## Outros livros:
 
-![Livro sobre gestão de projetos](https://raw.githubusercontent.com/monteiro74/aulas_2023/main/figuras/livro4.jpg)
+![Livro sobre gestão de projetos](https://lh3.googleusercontent.com/1PjcEBRgfNCOw-54MiUjxtDuzzf_zYvr5r2MgTlGYdnPUXf8_T_8Tde15BoXsAzLJNXz6qgUjCV4-zKezKcH-PiVUR00JLONqKyvXpjUnUYmgXciRkQ0Y0F80xJUPdDaXA=w1280)
 
 ---
 ## Cursos **gratuítos**:
