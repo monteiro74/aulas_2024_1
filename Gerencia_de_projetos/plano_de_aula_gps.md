@@ -6,7 +6,7 @@
 
 ### Horário:
 
-3N231, Terça feira, Sala C8 - Fase 8.
+3N231, Terça feira, Sala O8 - Fase 8.
 	
 ### Ementa:	19hs - 22hs
 

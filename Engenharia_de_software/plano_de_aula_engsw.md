@@ -6,7 +6,7 @@
 
 ### Horário: 19hs - 22hs
 
-5N231, Quinta feira, Sala C13 - Fase 4.
+5N231, Quinta feira, Sala C8 - Fase 4.
 
 ### Ementa: 
 
