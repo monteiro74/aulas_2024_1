@@ -19,15 +19,12 @@ aulas_2024-1
 Calendário de aulas (previstas no calendário):
 
 ## FASE 4:
-![https://raw.githubusercontent.com/monteiro74/aulas_2024_1/main/figuras/fase4a.PNG](https://raw.githubusercontent.com/monteiro74/aulas_2024_1/main/figuras/fase4a.PNG)
+![https://github.com/monteiro74/aulas_2024_1/blob/main/figuras/horario_4a_fase.png](https://github.com/monteiro74/aulas_2024_1/blob/main/figuras/horario_4a_fase.png)
 
-![https://raw.githubusercontent.com/monteiro74/aulas_2024_1/main/figuras/fase4b.PNG](https://raw.githubusercontent.com/monteiro74/aulas_2024_1/main/figuras/fase4b.PNG)
 
 ## FASE 8:
 
-![https://raw.githubusercontent.com/monteiro74/aulas_2024_1/main/figuras/fase8a.PNG](https://raw.githubusercontent.com/monteiro74/aulas_2024_1/main/figuras/fase8a.PNG)
- 
-![https://raw.githubusercontent.com/monteiro74/aulas_2024_1/main/figuras/fase8b.PNG](https://raw.githubusercontent.com/monteiro74/aulas_2024_1/main/figuras/fase8b.PNG)
+![https://github.com/monteiro74/aulas_2024_1/blob/main/figuras/horario_8a_fase.png](https://github.com/monteiro74/aulas_2024_1/blob/main/figuras/horario_8a_fase.png)
 
 ---
 ## Calendário organizado pela coordenação do curso:
@@ -40,6 +37,7 @@ Calendário de aulas (previstas no calendário):
 ## Normatização acadêmica:
 
 [Resolução CONEPE](http://www.unemat.br/resolucoes/resolucoes/conepe/2649_res_conepe_54_2011.pdf).
+
 
 
 
