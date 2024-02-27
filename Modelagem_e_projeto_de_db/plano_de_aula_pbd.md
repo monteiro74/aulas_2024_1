@@ -6,7 +6,7 @@
 
 ### Horário:
 
-4N231, Quarta feira, Sala C13 - Fase 4.
+4N231, Quarta feira, Sala C8 - Fase 4.
 
 
 
