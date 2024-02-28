@@ -101,7 +101,7 @@ PF: 04/06/2024 <br>
 Lista de ferramentas:
 [Lista de ferramentas de desenvolvimento de software](https://github.com/monteiro74/lista_de_ferramentas)
 
-
+[Lista de diagramas básicos](https://github.com/monteiro74/diagramas_resumo).
 
 
 ---
