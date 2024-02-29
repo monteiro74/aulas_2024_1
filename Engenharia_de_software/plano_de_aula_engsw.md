@@ -120,7 +120,6 @@ PF: 20/06/2024 <br>
 [Lista de ferramentas de desenvolvimento de software](https://github.com/monteiro74/lista_de_ferramentas)
 
 
-
 ---
 ## Onde adquirir livros? 
 A Amazon tem a opção eletrônica via Kindle e as vezes tem livros usados também.
@@ -140,10 +139,7 @@ Quem tiver uma $$$ sobrando, os livros citados estão aqui na Amazon:
 
 [Metodologias ágeis: engenharia de software sob medida](https://www.amazon.com.br/Metodologias-%C3%81geis-Engenharia-Software-Medida/dp/853650398X/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3HVSC0WN1VWF5&keywords=Metodologias+%C3%A1geis%3A+engenharia+de+software+sob+medida&qid=1691345054&s=books&sprefix=metodologias+%C3%A1geis+engenharia+de+software+sob+medida%2Cstripbooks%2C215&sr=1-1&ufe=app_do%3Aamzn1.fos.6d798eae-cadf-45de-946a-f477d47705b9)
 
----
-## Outros livros:
 
-![Livro sobre gestão de projetos](https://lh3.googleusercontent.com/1PjcEBRgfNCOw-54MiUjxtDuzzf_zYvr5r2MgTlGYdnPUXf8_T_8Tde15BoXsAzLJNXz6qgUjCV4-zKezKcH-PiVUR00JLONqKyvXpjUnUYmgXciRkQ0Y0F80xJUPdDaXA=w1280)
 
 ---
 ## Cursos **gratuítos**:

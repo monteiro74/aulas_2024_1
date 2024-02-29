@@ -116,12 +116,7 @@ Lista de ferramentas:
 
 
 
----
-### Outros livros
 
-Alguns livros teóricos (apesar da idade) ainda bem interessantes:
-
-![Livros](https://lh3.googleusercontent.com/1aHX-ufCw1b0-jcbWhG95c_1ke-4SFO0vFlYCC8dgtKVQsDVwQcBoLWkU8vYOWiab1JCQsOmuX-TvvwIi8iLcQfVbo9pkct7dHZMOysZKk8r4QLq53miZ1Oi5f-mtU_9XQ=w1280)
 
 
 ---

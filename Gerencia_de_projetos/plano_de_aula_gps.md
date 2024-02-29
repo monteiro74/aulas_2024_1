@@ -118,10 +118,7 @@ Quem tiver uma $$$ sobrando, os livros citados estão aqui na Amazon:
 
 [Engenharia de software](https://www.amazon.com.br/gp/product/B07WG46WYT/ref=dbs_a_def_rwt_bibl_vppi_i0)
 
----
-## Outros livros
 
-![Livro sobre gestão de projetos](https://lh6.googleusercontent.com/-Ce67bkLdK-w4rMbcX3-zxCv-B-Da3Ki99OBg4fmZxADhhp9RhgCTL5l8Uo4FxzZRPBJjKWzMcQnrh0a9Fxfs-e4jUIlXbqKscnjqSC1t8QszVkcVb3SHP9TDIPbj3Bz4Q=w1280)
 
 ---
 ## Curso **grátis** sobre gerência de projetos:
@@ -129,10 +126,7 @@ Quem tiver uma $$$ sobrando, os livros citados estão aqui na Amazon:
 * [Gerenciamento de Projetos com Project Libre](https://www.udemy.com/course/ferramentas-do-gp-projectlibre/)
 * [Introdução Gratuita: Preparatório on demand para o exame PMP autorizado do PMI](https://www.pmi.org/shop/brazil/p-/elearning/introdu%C3%A7%C3%A3o-gratuita-preparat%C3%B3rio-on-demand-para-o-exame-pmp-autorizado-do-pmi/el053)
 
----
-## Google trends
 
-Fonte: https://trends.google.com.br/trends/explore?cat=1227&date=all&q=function%20point%20analysis,%2Fm%2F0bwtzg&hl=pt
 
 
 ---
