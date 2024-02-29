@@ -8,9 +8,9 @@ aulas_2024-1
 
 # Disciplinas, ministradas em 2024/1.
 
-1. Engenharia de Software 
-2. Gerência de projeto de software 
-3. Modelagem e projeto de banco de dados 
+1. Engenharia de Software
+2. Gerência de projeto de software
+3. Modelagem e projeto de banco de dados
 
 
 ---
