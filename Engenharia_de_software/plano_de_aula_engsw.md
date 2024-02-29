@@ -61,7 +61,7 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 
 | Data    | Conteúdo |
 | -------- | ------- |
-| Aula 1: 29/02/2024 | Introdução. Referências bibliográficas. Conceitos de engenharia de software, análise de sistemas, analista de sistemas, processos de software, RUP, métodos ágeis. |
+| Aula 1: 29/02/2024 | Introdução. Referências bibliográficas. Conceitos de engenharia de software, análise de sistemas, analista de sistemas, processos de software, RUP, métodos ágeis. [Avaliação institucional](https://avaliacao.unemat.br/login) |
 | Aula 2: 07/03/2024 | Processos de software, processos ágeis, SCRUM, Kanban, análise de requisitos, introdução à UML. |
 | Aula 3: 14/03/2024 | Revisão de UML, processo de desenvolvimento OO. |
 | Aula 4: 21/03/2024 | Linguagens de programação, Ferramentas CASE, revisão de UML, revisão para avaliação 1. |
