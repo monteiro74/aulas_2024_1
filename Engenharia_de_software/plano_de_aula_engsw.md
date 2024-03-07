@@ -78,6 +78,22 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 | Aula 15: 20/06/2024 | PF |
 
 
+---
+### Links para download de ferramentas para diagramação com UML:
+
+[Papyrus](https://eclipse.dev/papyrus/download.html)
+
+[Modelio](https://www.modelio.org/index.htm)
+
+[WhiteStar](https://sourceforge.net/projects/whitestaruml/)
+
+[Software Ideas Modeler](https://www.softwareideas.net/en/download)
+
+[StarUML](https://staruml.io/download/)
+
+[Visual Paradigm Community Edition](https://www.visual-paradigm.com/download/community.jsp)
+
+[UML Designer](https://www.umldesigner.org/download/)
 
 
 ---
