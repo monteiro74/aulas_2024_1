@@ -62,7 +62,7 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 | Data    | Conteúdo |
 | -------- | ------- |
 | Aula 1: 29/02/2024 | Introdução. Referências bibliográficas. Conceitos de engenharia de software, análise de sistemas, analista de sistemas. [Avaliação institucional](https://avaliacao.unemat.br/login). Slides da [aula1](https://docs.google.com/presentation/d/e/2PACX-1vRQjK-scnLNFmtfomuciCAOy4DTO1v5FUWo2qfUeaiujU3ynkT7zHTIPGyIYYG_fE5lTG6Dksxio_vr/pub?start=false&loop=false&delayms=3000). |
-| Aula 2: 07/03/2024 | Processos de software, processos ágeis, SCRUM, Kanban, análise de requisitos, introdução à UML. |
+| Aula 2: 07/03/2024 | Processos de software, processos ágeis, SCRUM, Kanban, análise de requisitos, introdução à UML. [Slides da aula 1 (continuação)](https://docs.google.com/presentation/d/e/2PACX-1vTP_912GJaAeb6BAzEE1BC2rYLMEIC2jgIsAbuacbS_3UDemTwIIsOnI4zGuma_E3WADrEq_diX32A0/pub?start=false&loop=false&delayms=3000), [slides da aula 2](https://docs.google.com/presentation/d/e/2PACX-1vRJylXQw67mu5xckf19ZWwMMopaeQ2elUiLHu1Iak6e6khMal4Rnb1xV2-2ZS-_tjiFATHv5DZ7Ys5b/pub?start=false&loop=false&delayms=3000). Lista de ferramentas comentadas segue abaixo nesta página. |
 | Aula 3: 14/03/2024 | Revisão de UML, processo de desenvolvimento OO. |
 | Aula 4: 21/03/2024 | Linguagens de programação, Ferramentas CASE, revisão de UML, revisão para avaliação 1. |
 | Aula 5: 28/03/2024 | Avaliação 1 |
