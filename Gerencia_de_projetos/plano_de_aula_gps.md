@@ -43,6 +43,20 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 
 
 
+
+---
+### Repositórios de apoio:
+| Repositório | Url |
+| --- | --- |
+| Diagramas resumo de engenharia de software | https://github.com/monteiro74/diagramas_resumo |
+| Lista de ferramentas | https://github.com/monteiro74/lista_de_ferramentas |
+| Tutorial de Python | https://github.com/monteiro74/tutorial_python |
+| Bibliometria | https://github.com/monteiro74/bibliometria |
+| Blockchain | https://github.com/monteiro74/blockchain |
+| Aprendizado de máquina | https://github.com/monteiro74/aprendizado_de_maquina |
+
+
+
 ---
 ### Datas de aulas:
 
