@@ -2,23 +2,23 @@
 
 
 - [Plano de ensino de Gerência de Projeto de Software](#plano-de-ensino-de-gerência-de-projeto-de-software)
-- [1. Turma: FACET-SNP-312 - GERÊNCIA DE PROJETOS DE SOFTWARE (60h) - Turma: 01 (2024.1)](#1-turma-facet-snp-312---gerência-de-projetos-de-software-60h---turma-01-20241)
+  - [1. Turma: FACET-SNP-312 - GERÊNCIA DE PROJETOS DE SOFTWARE (60h) - Turma: 01 (2024.1)](#1-turma-facet-snp-312---gerência-de-projetos-de-software-60h---turma-01-20241)
     - [1.1. Carga Horária Total: 60.](#11-carga-horária-total-60)
     - [1.2. Horário:](#12-horário)
     - [1.3. Ementa:	19hs - 22hs](#13-ementa19hs---22hs)
     - [1.4. Metodologia:](#14-metodologia)
     - [1.5. Procedimentos de avaliação de aprendizagem:](#15-procedimentos-de-avaliação-de-aprendizagem)
     - [1.6. Horário de atendimento:](#16-horário-de-atendimento)
-    - [2. Sites utilizados:](#2-sites-utilizados)
-    - [3. Repositórios de apoio:](#3-repositórios-de-apoio)
-    - [4. Datas de aulas:](#4-datas-de-aulas)
-    - [5. Artigos:](#5-artigos)
-    - [6. Unidade de avaliação:](#6-unidade-de-avaliação)
-    - [7. Referências:](#7-referências)
-    - [8. Demais Disciplinas:](#8-demais-disciplinas)
-    - [9. Lista de ferramentas:](#9-lista-de-ferramentas)
-    - [10. Curiosidade... onde adquirir livros baratos?](#10-curiosidade-onde-adquirir-livros-baratos)
-    - [11. Curso **grátis** sobre gerência de projetos:](#11-curso-grátis-sobre-gerência-de-projetos)
+  - [2. Sites utilizados:](#2-sites-utilizados)
+  - [3. Repositórios de apoio:](#3-repositórios-de-apoio)
+  - [4. Datas de aulas:](#4-datas-de-aulas)
+  - [5. Artigos:](#5-artigos)
+  - [6. Unidade de avaliação:](#6-unidade-de-avaliação)
+  - [7. Referências:](#7-referências)
+  - [8. Demais Disciplinas:](#8-demais-disciplinas)
+  - [9. Lista de ferramentas:](#9-lista-de-ferramentas)
+  - [10. Curiosidade... onde adquirir livros baratos?](#10-curiosidade-onde-adquirir-livros-baratos)
+  - [11. Curso **grátis** sobre gerência de projetos:](#11-curso-grátis-sobre-gerência-de-projetos)
 
 
 
@@ -54,7 +54,7 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 30 minutos antes da aula (via agendamento prévio).
 
 ---
-### 2. Sites utilizados:
+## 2. Sites utilizados:
 
 | Sites utilizados | Url |
 | --- | --- |
@@ -65,7 +65,7 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 
 
 ---
-### 3. Repositórios de apoio:
+## 3. Repositórios de apoio:
 | Repositório | Url |
 | --- | --- |
 | Diagramas resumo de engenharia de software | https://github.com/monteiro74/diagramas_resumo |
@@ -78,7 +78,7 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 
 
 ---
-### 4. Datas de aulas:
+## 4. Datas de aulas:
 
 | Data    | Conteúdo |
 | -------- | ------- |
@@ -99,7 +99,7 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 | Aula 15: 04/06/2024 | PF |
 
 ---
-### 5. Artigos:
+## 5. Artigos:
 1. [O gerenciamento de projetos e sua importância para a qualidade e a efetividade no setor público](https://core.ac.uk/display/268170107?utm_source=pdf&utm_medium=banner&utm_campaign=pdf-decoration-v1)
 2. [Gerência de Projetos - Teoria e Prática](https://repositorio.enap.gov.br/bitstream/1/1092/1/GerenciaDeProjeos_modulo_1_final_.pdf)
 3. [Gerência de projetos: uma reflexão histórica](https://www.scielo.br/j/rae/a/Fkq59q8FCfMvqhLPbQpx3pt/)
@@ -107,7 +107,7 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 5.	[Gestão de projetos em empresas públicas: a implantação do escritório de projetos na empresa de transportes e trânsito de Belo Horizonte S/A](https://www.researchgate.net/profile/Barbara-Matos-4/publication/329217483_Gestao_de_projetos_em_empresas_publicas_a_implantacao_do_escritorio_de_projetos_na_empresa_de_transportes_e_transito_de_Belo_Horizonte_SA/links/5bfd572da6fdcc35428b98f5/Gestao-de-projetos-em-empresas-publicas-a-implantacao-do-escritorio-de-projetos-na-empresa-de-transportes-e-transito-de-Belo-Horizonte-S-A.pdf)
 
 ---
-### 6. Unidade de avaliação:
+## 6. Unidade de avaliação:
 
 Avaliação 1: 26/03/2024 <br>
 Avaliação 2: 30/04/2024 <br>
@@ -116,7 +116,7 @@ PF: 04/06/2024 <br>
 
 
 ---
-### 7. Referências:
+## 7. Referências:
 
 * SBROCCO, José Henrique Teixeira de Carvalho Metodologias ágeis: engenharia de software sob medida. Tradução: José Henrique Teixeira de Carvalho Sbrocco, Paulo Cesar de Macedo. -- 1. ed. -- São Paulo: Érica, 2012.<br> Este livro esta disponível na biblioteca online da Unemat em: https://integrada.minhabiblioteca.com.br/reader/books/9788536519418/pageid/0 <br>
 * PRESSMAN,.Engenharia de software: uma abordagem profissional. Porto Alegre: AMGH, 2016.<br> Este livro esta disponível na biblioteca online da Unemat em: https://integrada.minhabiblioteca.com.br/reader/books/9786558040118/epubcfi/6/2[%3Bvnd.vst.idref%3DCapa.xhtml]!/4/2[page_i]/2%4076:41 <br>
@@ -125,28 +125,28 @@ PF: 04/06/2024 <br>
 
 
 ---
-### 8. Demais Disciplinas:
+## 8. Demais Disciplinas:
 
 1. Engenharia de Software https://github.com/monteiro74/aulas_2023/blob/main/Engenharia_de_software/plano_de_aula_engsw.md
 2. Gestão de projeto de software https://github.com/monteiro74/aulas_2023/blob/main/Gerencia_de_projetos/plano_de_aula_gps.md
 3. Modelagem e projeto de banco de dados https://github.com/monteiro74/aulas_2023/blob/main/Modelagem_e_projeto_de_bd/plano_de_aula_pbd.md
 
 ---
-### 9. Lista de ferramentas:
+## 9. Lista de ferramentas:
 [Lista de ferramentas de desenvolvimento de software](https://github.com/monteiro74/lista_de_ferramentas)
 
 [Lista de diagramas básicos](https://github.com/monteiro74/diagramas_resumo).
 
 
 ---
-### 10. Curiosidade... onde adquirir livros baratos? 
+## 10. Curiosidade... onde adquirir livros baratos? 
 A Amazon tem a opção eletrônica via Kindle e as vezes tem livros usados também.
 
 Um site interessante para livros usados é a Estante Virtual: https://www.estantevirtual.com.br/
 
 
 ---
-### 11. Curso **grátis** sobre gerência de projetos:
+## 11. Curso **grátis** sobre gerência de projetos:
 
 * [Gerenciamento de Projetos com Project Libre](https://www.udemy.com/course/ferramentas-do-gp-projectlibre/)
 * [Introdução Gratuita: Preparatório on demand para o exame PMP autorizado do PMI](https://www.pmi.org/shop/brazil/p-/elearning/introdu%C3%A7%C3%A3o-gratuita-preparat%C3%B3rio-on-demand-para-o-exame-pmp-autorizado-do-pmi/el053)

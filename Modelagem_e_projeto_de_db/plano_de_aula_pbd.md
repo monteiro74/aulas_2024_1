@@ -66,8 +66,6 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 | Sistema Acadêmico | https://sigaa.unemat.br/sigaa/verTelaLogin.do |
 
 
-
-
 ---
 ## 3. Repositórios de apoio:
 | Repositório | Url |
