@@ -1,5 +1,6 @@
 # Plano de ensino de Gerência de Projeto de Software
 
+
 - [Plano de ensino de Gerência de Projeto de Software](#plano-de-ensino-de-gerência-de-projeto-de-software)
 - [1. Turma: FACET-SNP-312 - GERÊNCIA DE PROJETOS DE SOFTWARE (60h) - Turma: 01 (2024.1)](#1-turma-facet-snp-312---gerência-de-projetos-de-software-60h---turma-01-20241)
     - [1.1. Carga Horária Total: 60.](#11-carga-horária-total-60)
@@ -21,7 +22,7 @@
 
 
 
-# 1. Turma: FACET-SNP-312 - GERÊNCIA DE PROJETOS DE SOFTWARE (60h) - Turma: 01 (2024.1)
+## 1. Turma: FACET-SNP-312 - GERÊNCIA DE PROJETOS DE SOFTWARE (60h) - Turma: 01 (2024.1)
 
 ### 1.1. Carga Horária Total: 60.
 

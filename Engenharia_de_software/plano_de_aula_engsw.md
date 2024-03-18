@@ -1,6 +1,35 @@
 # Plano de ensino de Engenharia de Software
 
-## Turma: FACET-SNP-308 - ENGENHARIA DE SOFTWARE (60h) - Turma: 01 (2024.1)
+
+- [Plano de ensino de Engenharia de Software](#plano-de-ensino-de-engenharia-de-software)
+  - [Turma: FACET-SNP-308 - ENGENHARIA DE SOFTWARE (60h) - Turma: 01 (2024.1)](#turma-facet-snp-308---engenharia-de-software-60h---turma-01-20241)
+    - [Carga Horária Total: 60](#carga-horária-total-60)
+    - [Horário: 19hs - 22hs](#horário-19hs---22hs)
+    - [Ementa:](#ementa)
+    - [Metodologia:](#metodologia)
+    - [Procedimentos de avaliação de aprendizagem:](#procedimentos-de-avaliação-de-aprendizagem)
+    - [Horário de atendimento:](#horário-de-atendimento)
+    - [Sites utilizados:](#sites-utilizados)
+    - [Repositórios de apoio:](#repositórios-de-apoio)
+    - [Datas de aulas:](#datas-de-aulas)
+    - [Links para download de ferramentas para diagramação com UML:](#links-para-download-de-ferramentas-para-diagramação-com-uml)
+    - [Artigos:](#artigos)
+    - [Unidade de avaliação:](#unidade-de-avaliação)
+    - [Referências:](#referências)
+    - [Demais Disciplinas:](#demais-disciplinas)
+    - [Lista de ferramentas:](#lista-de-ferramentas)
+  - [Onde adquirir livros?](#onde-adquirir-livros)
+  - [Cursos **gratuítos**:](#cursos-gratuítos)
+  - [Google Trends](#google-trends)
+
+
+
+
+
+
+
+
+# 1. Turma: FACET-SNP-308 - ENGENHARIA DE SOFTWARE (60h) - Turma: 01 (2024.1)
 
 ### Carga Horária Total: 60
 

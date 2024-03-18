@@ -3,28 +3,28 @@
 
 
 - [Plano de ensino de: Modelagem e Projeto de Banco de Dados](#plano-de-ensino-de-modelagem-e-projeto-de-banco-de-dados)
-- [1. Turma: FACET-SNP-323 - MODELAGEM E PROJETO DE BANCO DE DADOS (60h) - Turma: 01 (2024.1)](#1-turma-facet-snp-323---modelagem-e-projeto-de-banco-de-dados-60h---turma-01-20241)
+  - [1. Turma: FACET-SNP-323 - MODELAGEM E PROJETO DE BANCO DE DADOS (60h) - Turma: 01 (2024.1)](#1-turma-facet-snp-323---modelagem-e-projeto-de-banco-de-dados-60h---turma-01-20241)
     - [1.1. Carga Horária Total: 60.](#11-carga-horária-total-60)
     - [1.2. Horário:](#12-horário)
     - [1.3. Ementa:](#13-ementa)
     - [1.4. Metodologia:](#14-metodologia)
     - [1.5. Procedimentos de avaliação de aprendizagem:](#15-procedimentos-de-avaliação-de-aprendizagem)
     - [1.6. Horário de atendimento:](#16-horário-de-atendimento)
-    - [2. Sites utilizados:](#2-sites-utilizados)
-    - [3. Repositórios de apoio:](#3-repositórios-de-apoio)
-    - [4. Datas de aulas:](#4-datas-de-aulas)
-    - [5. Artigos:](#5-artigos)
-    - [6. Unidade de avaliação:](#6-unidade-de-avaliação)
-    - [7. Referências:](#7-referências)
-    - [8. Demais Disciplinas:](#8-demais-disciplinas)
-    - [9. Lista de ferramentas:](#9-lista-de-ferramentas)
-    - [10. Curiosidade... onde adquirir livros baratos?](#10-curiosidade-onde-adquirir-livros-baratos)
-    - [11. Cursos **grátis** sobre SQL Server e MySQL:](#11-cursos-grátis-sobre-sql-server-e-mysql)
+  - [2. Sites utilizados:](#2-sites-utilizados)
+  - [3. Repositórios de apoio:](#3-repositórios-de-apoio)
+  - [4. Datas de aulas:](#4-datas-de-aulas)
+  - [5. Artigos:](#5-artigos)
+  - [6. Unidade de avaliação:](#6-unidade-de-avaliação)
+  - [7. Referências:](#7-referências)
+  - [8. Demais Disciplinas:](#8-demais-disciplinas)
+  - [9. Lista de ferramentas:](#9-lista-de-ferramentas)
+  - [10. Curiosidade... onde adquirir livros baratos?](#10-curiosidade-onde-adquirir-livros-baratos)
+  - [11. Cursos **grátis** sobre SQL Server e MySQL:](#11-cursos-grátis-sobre-sql-server-e-mysql)
 
 
 
 
-# 1. Turma: FACET-SNP-323 - MODELAGEM E PROJETO DE BANCO DE DADOS (60h) - Turma: 01 (2024.1)
+## 1. Turma: FACET-SNP-323 - MODELAGEM E PROJETO DE BANCO DE DADOS (60h) - Turma: 01 (2024.1)
 
 ### 1.1. Carga Horária Total: 60.
 
@@ -56,7 +56,7 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 
 ---
 
-### 2. Sites utilizados:
+## 2. Sites utilizados:
 
 | Sites utilizados | Url |
 | --- | --- |
@@ -69,7 +69,7 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 
 
 ---
-### 3. Repositórios de apoio:
+## 3. Repositórios de apoio:
 | Repositório | Url |
 | --- | --- |
 | Diagramas resumo de engenharia de software | https://github.com/monteiro74/diagramas_resumo |
@@ -81,7 +81,7 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 
 
 ---
-### 4. Datas de aulas:
+## 4. Datas de aulas:
 
 | Data    | Conteúdo |
 | -------- | ------- |
@@ -103,7 +103,7 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 
 
 ---
-### 5. Artigos:
+## 5. Artigos:
 
 1. [Diagrama Entidade-Relacionamento: uma ferramenta para modelagem de dados conceituais em Engenharia de Software](https://rsdjournal.org/index.php/rsd/article/download/17776/15626/221575)
 2. [O uso da abordagem sistêmica na modelagem de banco de dados](https://www.aedb.br/seget/arquivos/artigos12/65416864.pdf)
@@ -114,7 +114,7 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 
 ---
 
-### 6. Unidade de avaliação:
+## 6. Unidade de avaliação:
 
 Avaliação 1: 27/03/2024 <br>
 Avaliação 2: 08/05/2024 <br>
@@ -124,7 +124,7 @@ PF: 12/06/2024 <br>
 ---
 
 
-### 7. Referências:
+## 7. Referências:
 
 * ELMASRI, Ramez; NAVATHE, Shamkant B. Sistemas de Banco de Dados. 6 a edição. Editora Addison, 2005.<br>
 * SILBERSCHATZ, Abraham; KORTH, Henry F.; SUDARSHAN, S. Sistema de banco de dados. Trad. Daniel Vieira. 6ed. Rio de Janeiro: Elsevier, 2012. <br> Este livro esta disponível na biblioteca online da Unemat em: https://integrada.minhabiblioteca.com.br/reader/books/9788595157552/epubcfi/6/2[%3Bvnd.vst.idref%3Dcover]!/4/2/2%4074:39 <br>
@@ -135,26 +135,26 @@ PF: 12/06/2024 <br>
 
 
 ---
-### 8. Demais Disciplinas:
+## 8. Demais Disciplinas:
 
 1. Engenharia de Software https://github.com/monteiro74/aulas_2023/blob/main/Engenharia_de_software/plano_de_aula_engsw.md
 2. Gestão de projeto de software https://github.com/monteiro74/aulas_2023/blob/main/Gerencia_de_projetos/plano_de_aula_gps.md
 3. Modelagem e projeto de banco de dados https://github.com/monteiro74/aulas_2023/blob/main/Modelagem_e_projeto_de_bd/plano_de_aula_pbd.md
 
 ---
-### 9. Lista de ferramentas:
+## 9. Lista de ferramentas:
 [Lista de ferramentas de desenvolvimento de software](https://github.com/monteiro74/lista_de_ferramentas)
 
 
 ---
-### 10. Curiosidade... onde adquirir livros baratos? 
+## 10. Curiosidade... onde adquirir livros baratos? 
 A Amazon tem a opção eletrônica via Kindle e as vezes tem livros usados também.
 
 Um site interessante para livros usados é a Estante Virtual: https://www.estantevirtual.com.br/
 
 
 ---
-### 11. Cursos **grátis** sobre SQL Server e MySQL:
+## 11. Cursos **grátis** sobre SQL Server e MySQL:
 * [Projeto Real Der(conceitual) com Banco de dados SQL SERVER](https://www.udemy.com/course/projeto-real-derconceitual-com-banco-de-dados-sql-server/)
 
 * [Série DBA SQL Server - Preparação, instalação e configuração](https://www.udemy.com/course/sqlserver-instalacao-e-configuracao/)
