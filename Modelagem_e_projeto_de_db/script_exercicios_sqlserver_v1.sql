@@ -41,7 +41,7 @@ SELECT TOP (1000) [IdAluno]
       ,[Aniversario]
       ,[Sexo]
       ,[Salario]
-  FROM [escola2].[dbo].[tblAlunos]
+  FROM [cafe].[dbo].[tblAlunos]
 
 -- Selecionar todos os registros da tabela Alunos
 SELECT * FROM tblAlunos
@@ -380,8 +380,8 @@ FROM tblAlunos AS a, tblPets AS p
 WHERE p.IdAluno = a.IdAluno;
 
 -- Backup de banco
-BACKUP DATABASE escola2
-TO DISK = 'D:\bd\backup\backup1.bak';
+BACKUP DATABASE cafe
+TO DISK = 'C:\bd\backup\backup1.bak';
 
 -- Create trigger
 CREATE TRIGGER aviso
