@@ -1,5 +1,29 @@
 # Plano de ensino de: Modelagem e Projeto de Banco de Dados
 
+
+
+- [Plano de ensino de: Modelagem e Projeto de Banco de Dados](#plano-de-ensino-de-modelagem-e-projeto-de-banco-de-dados)
+- [1. Turma: FACET-SNP-323 - MODELAGEM E PROJETO DE BANCO DE DADOS (60h) - Turma: 01 (2024.1)](#1-turma-facet-snp-323---modelagem-e-projeto-de-banco-de-dados-60h---turma-01-20241)
+    - [1.1. Carga Horária Total: 60.](#11-carga-horária-total-60)
+    - [1.2. Horário:](#12-horário)
+    - [1.3. Ementa:](#13-ementa)
+    - [1.4. Metodologia:](#14-metodologia)
+    - [1.5. Procedimentos de avaliação de aprendizagem:](#15-procedimentos-de-avaliação-de-aprendizagem)
+    - [1.6. Horário de atendimento:](#16-horário-de-atendimento)
+    - [2. Sites utilizados:](#2-sites-utilizados)
+    - [3. Repositórios de apoio:](#3-repositórios-de-apoio)
+    - [4. Datas de aulas:](#4-datas-de-aulas)
+    - [5. Artigos:](#5-artigos)
+    - [6. Unidade de avaliação:](#6-unidade-de-avaliação)
+    - [7. Referências:](#7-referências)
+    - [8. Demais Disciplinas:](#8-demais-disciplinas)
+    - [9. Lista de ferramentas:](#9-lista-de-ferramentas)
+    - [10. Curiosidade... onde adquirir livros baratos?](#10-curiosidade-onde-adquirir-livros-baratos)
+    - [11. Cursos **grátis** sobre SQL Server e MySQL:](#11-cursos-grátis-sobre-sql-server-e-mysql)
+
+
+
+
 # 1. Turma: FACET-SNP-323 - MODELAGEM E PROJETO DE BANCO DE DADOS (60h) - Turma: 01 (2024.1)
 
 ### 1.1. Carga Horária Total: 60.
@@ -7,8 +31,6 @@
 ### 1.2. Horário:
 
 4N231, Quarta feira, Sala C8 - Fase 4.
-
-
 
 ### 1.3. Ementa:
 
