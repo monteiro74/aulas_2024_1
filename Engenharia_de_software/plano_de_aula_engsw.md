@@ -1,6 +1,7 @@
 # Plano de ensino de Engenharia de Software
 
 
+
 - [Plano de ensino de Engenharia de Software](#plano-de-ensino-de-engenharia-de-software)
   - [1. Turma: FACET-SNP-308 - ENGENHARIA DE SOFTWARE (60h) - Turma: 01 (2024.1)](#1-turma-facet-snp-308---engenharia-de-software-60h---turma-01-20241)
     - [1.1. Carga Horária Total: 60](#11-carga-horária-total-60)
@@ -21,8 +22,6 @@
   - [11. Lista de ferramentas:](#11-lista-de-ferramentas)
   - [12. Curiosidade... onde adquirir livros baratos?](#12-curiosidade-onde-adquirir-livros-baratos)
   - [13. Cursos **gratuítos**:](#13-cursos-gratuítos)
-
-
 
 
 
