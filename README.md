@@ -15,7 +15,7 @@ aulas_2024-1
 ---
 # Mapa do curso
 
-[]()
+![Mapa do curso](https://raw.githubusercontent.com/monteiro74/aulas_2024_1/main/figuras/mapa_do_curso.png)
 
 ---
 # Calendário
