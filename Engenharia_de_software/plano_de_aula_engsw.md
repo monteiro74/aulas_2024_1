@@ -13,6 +13,7 @@
   - [2. Sites utilizados:](#2-sites-utilizados)
   - [3. Repositórios de apoio:](#3-repositórios-de-apoio)
   - [4. Datas de aulas:](#4-datas-de-aulas)
+    - [4.1. Diagrama entidade relacionamento](#41-diagrama-entidade-relacionamento)
   - [5. Links para download de ferramentas para diagramação com UML:](#5-links-para-download-de-ferramentas-para-diagramação-com-uml)
   - [6. Artigos:](#6-artigos)
   - [7. Unidade de avaliação:](#7-unidade-de-avaliação)
@@ -104,6 +105,12 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 | Aula 13: 23/05/2024 | Projeto de software com ferramenta IDE RAD. |
 | Aula 14: 06/06/2024 | Avaliação 3 |
 | Aula 15: 20/06/2024 | PF |
+
+
+---
+### 4.1. Diagrama entidade relacionamento
+
+![]()
 
 
 ---
