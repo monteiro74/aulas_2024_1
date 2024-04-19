@@ -91,7 +91,7 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 | Aula 6: 02/04/2024 |  Aula reprogramada ! |
 | Aula 7: 09/04/2024 | Exercício realizado: 1. Criação do banco de dados no MySQL (usando Laragon). 2. Executado o script para criar os objetos do banco e inserir alguns dados nas tabelas usando qualquer uma das ferramentas recomendadas (HeidiSQL, MySQL Front ou DBeaver). 3. Criado o projeto no scriptcase. 3.1. Scriptcase conectado com o banco de dados. 3.2. Dentro do Scriptcase foram desenvolvidos seguintes aplicativos: menu, consulta (grid), formulário, blank, gráfico e dashboard. |
 | Aula 8: 16/04/2024 | Estrutura do projeto, FPA, SWOT, Project Canvas. TWIG, qdPM + ProjectLibre. Estrutura do projeto, TWIG, qdPM + ProjectLibre. Controle de versão, testes, qualidade, exercícios. |
-| Aula 9: 23/04/2024 | Métodos ágeis. |
+| Aula 9: 23/04/2024 | Estrutura do projeto, FPA, SWOT, Project Canvas. TWIG, qdPM + ProjectLibre. Estrutura do projeto, TWIG, qdPM + ProjectLibre. Controle de versão, testes, qualidade, exercícios. Métodos ágeis. |
 | Aula 10: 30/04/2024 | Avaliação 2 |
 | Aula 11: 07/05/2024 | Funções do gerente de projeto, IDE x RAD, descrição do projeto exercício. |
 | Aula 12: 14/05/2024 | Implementação do banco de dados, instalação de ferramenta, desenv. Proj. |
