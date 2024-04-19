@@ -23,7 +23,7 @@ aulas_2024-1
 Calendário de aulas (previstas no calendário) p/ 2024/1:
 
 ## FASE 4:
-![https://github.com/monteiro74/aulas_2024_1/blob/main/figuras/horario_4a_fase.png](https://github.com/monteiro74/aulas_2024_1/blob/main/figuras/horario_4a_fase.png)
+![https://raw.githubusercontent.com/monteiro74/aulas_2024_1/main/figuras/troca_dias_aula.png](https://raw.githubusercontent.com/monteiro74/aulas_2024_1/main/figuras/troca_dias_aula.png)
 
 
 ## FASE 8:
