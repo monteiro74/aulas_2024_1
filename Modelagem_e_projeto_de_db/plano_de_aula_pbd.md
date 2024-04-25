@@ -92,7 +92,7 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 | Aula 6: 03/04/2024 | Aula reprogramada ! |
 | Aula 7: 10/04/2024 | Exercício realizado 1: Criação do banco de dados no MySQL (usando Laragon). 2. Executado o script para criar os objetos do banco e inserir alguns dados nas tabelas usando qualquer uma das ferramentas recomendadas (HeidiSQL, MySQL Front ou DBeaver). 3. Criado o projeto no scriptcase. 3.1. Scriptcase conectado com o banco de dados. 3.2. Dentro do Scriptcase foram desenvolvidos seguintes aplicativos: menu, consulta (grid), formulário, blank, gráfico e dashboard. |
 | Aula 8: 17/04/2024 | Exercício realizado 2: Foram criadas no scriptcase as seguintes aplicações: Abas, blank, cadastros (consultas (grids) e formulários), controle, filtros, dashboard, gráficos, relatórios e módulos de segurança. Posteriormente foi feito a implantação da aplicação gerada no Apache do Laragon e configurado o ambiente de produção da aplicação final. |
-| Aula 9: 24/04/2024 | DW, OLAP x OLTP, Cubo de dados, dimensão x fato, floco de neve, BI, criação de banco de dados na núvem.Revisão de instalação de SQL Server e outros bancos. Serviço x Instância de banco. SQL Joins, exercícios com SQL, Bancos relacionais x não relacionais. |
+| Aula 9: 24/04/2024 | DW, OLAP x OLTP, Cubo de dados, dimensão x fato, floco de neve, BI, criação de banco de dados na núvem.Revisão de instalação de SQL Server e outros bancos. Serviço x Instância de banco. SQL Joins, exercícios com SQL, Bancos relacionais x não relacionais. Portal Brasileiro de [dados abertos](https://dados.gov.br/home). |
 | Aula 10: 08/05/2024 | Avaliação 2 |
 | Aula 11: 15/05/2024 | Bancos NoSQL + Exercícios. |
 | Aula 12: 22/05/2024 | Blockchain + Projeto exercício. |
