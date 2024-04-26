@@ -130,6 +130,21 @@ Para este exercício faça:
 4) Você pode sugerir atributos e métodos para as classes.
 
 
+Exercício 2:
+Quando um cliente chega na clínica veterinária ele é atendido por um atendente. 
+O atendente deve verificar se existe agenda disponível com um veterinário. 
+O atendente deve colocar o cliente e seu animal na fila de espera, se for o caso. 
+O atendente deve levar o cliente e o animal até o veterinário. 
+O veterinário deve realizar uma entrevista com o dono do animal. 
+O resultado da entrevista deve ir para um formulário. 
+O veterinário deverá examinar o animal e anotar em prontuário(ficha) suas observações. 
+Dependendo da situação do animal este receberá uma receita.
+Para este exercício faça:
+1) Elaborar um diagrama de atividades documentando para o cenário acima, é desejável colocar os personagens em baias.
+2) Elaborar um diagrama de casos de uso para o cenário acima, indicando possível situações de uso(funcionalidades) em um sistema.
+3) Elaborar um diagrama de sequência para documentar o atendimento descrito acima.
+
+
 ---
 ### 4.2. Diagrama entidade relacionamento
 
