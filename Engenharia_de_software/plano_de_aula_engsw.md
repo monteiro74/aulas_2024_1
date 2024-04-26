@@ -13,7 +13,8 @@
   - [2. Sites utilizados:](#2-sites-utilizados)
   - [3. Repositórios de apoio:](#3-repositórios-de-apoio)
   - [4. Datas de aulas:](#4-datas-de-aulas)
-    - [4.1. Diagrama entidade relacionamento](#41-diagrama-entidade-relacionamento)
+    - [4.1. Exercícios](#41-exercícios)
+    - [4.2. Diagrama entidade relacionamento](#42-diagrama-entidade-relacionamento)
   - [5. Links para download de ferramentas para diagramação com UML:](#5-links-para-download-de-ferramentas-para-diagramação-com-uml)
   - [6. Artigos:](#6-artigos)
   - [7. Unidade de avaliação:](#7-unidade-de-avaliação)
@@ -23,6 +24,7 @@
   - [11. Lista de ferramentas:](#11-lista-de-ferramentas)
   - [12. Curiosidade... onde adquirir livros baratos?](#12-curiosidade-onde-adquirir-livros-baratos)
   - [13. Cursos **gratuítos**:](#13-cursos-gratuítos)
+
 
 
 
@@ -108,7 +110,28 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 
 
 ---
-### 4.1. Diagrama entidade relacionamento
+### 4.1. Exercícios
+
+Exercício 1:
+Uma clínica veterinária atende apenas os animais: gatos e cachorros. 
+Os clientes devem fazer um cadastro de si e dos animais. 
+Os clientes devem informar as condições nas quais os animais chegam. 
+Os clientes devem informar o tipo de ração que o animal come. 
+O cliente deve informar hábitos do animal. 
+Para cada animal é possível que mais de um veterinário o atenda. 
+Os animais podem chegar e serem atendidos de acordo com uma agenda do dia. 
+Cada animal atendido receberá uma ficha e um prontuário. 
+Outros dono podem querer marcar horários de atendimento futuro. 
+O atendimento gera uma receita para o animal. 
+Para este exercício faça:
+1) Liste as classes identificadas e criar um diagrama de classes.
+2) Conectar as classes com uma ligação(relações) simples.
+3) Identificar multiplicidade(cardinalidade) nas ligações entre classes.
+4) Você pode sugerir atributos e métodos para as classes.
+
+
+---
+### 4.2. Diagrama entidade relacionamento
 
 ![https://raw.githubusercontent.com/monteiro74/aulas_2024_1/main/figuras/der_engsw.png](https://raw.githubusercontent.com/monteiro74/aulas_2024_1/main/figuras/der_engsw.png)
 
