@@ -105,8 +105,8 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 | Aula 10: 09/05/2024 | Métodos RAD, instalação de banco de dados e ferramenta IDE RAD. |
 | Aula 11: 16/05/2024 | Documentação de software, cpanel, projeto de software com ferramenta IDE RAD. |
 | Aula 12: 23/05/2024 | Projeto de software com ferramenta IDE RAD. |
-| Aula 13: 06/06/2024 | Avaliação 3 |
-| Aula 14: 20/06/2024 | PF |
+| Aula 13: 06/06/2024 | Projeto de software com ferramenta IDE RAD. |
+| Aula 14: 20/06/2024 | Avaliação 3 |
 
 
 ---

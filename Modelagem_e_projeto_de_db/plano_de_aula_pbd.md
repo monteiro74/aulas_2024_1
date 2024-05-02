@@ -97,8 +97,8 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 | Aula 11: 15/05/2024 | Bancos NoSQL + Exercícios. |
 | Aula 12: 22/05/2024 | Blockchain + Projeto exercício. |
 | Aula 13: 29/05/2024 | Blockchain + Projeto exercício. |
-| Aula 14: 05/06/2024 | Avaliação 3 |
-| Aula 15: 12/06/2024 | PF |
+| Aula 14: 05/06/2024 | Blockchain + Projeto exercício. |
+| Aula 15: 12/06/2024 | Avaliação 3 |
 
 
 
