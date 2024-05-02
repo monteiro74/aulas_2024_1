@@ -21,14 +21,8 @@ aulas_2024-1
 # Calendário
 
 Calendário de aulas (previstas no calendário) p/ 2024/1:
-
-## FASE 4:
-![https://raw.githubusercontent.com/monteiro74/aulas_2024_1/main/figuras/troca_dias_aula.png](https://raw.githubusercontent.com/monteiro74/aulas_2024_1/main/figuras/troca_dias_aula.png)
-
-
-## FASE 8:
-
-![https://github.com/monteiro74/aulas_2024_1/blob/main/figuras/horario_8a_fase.png](https://github.com/monteiro74/aulas_2024_1/blob/main/figuras/horario_8a_fase.png)
+Consulte o calendário oficial do curso e da universidade.
+No site ponto de ensino temos um calendário com os dias de aula de cada disciplina.
 
 ---
 ## Calendário organizado pela coordenação do curso:
