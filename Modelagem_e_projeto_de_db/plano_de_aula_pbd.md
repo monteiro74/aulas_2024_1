@@ -94,7 +94,7 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 | Aula 8: 17/04/2024 | Exercício realizado 2: Foram criadas no scriptcase as seguintes aplicações: Abas, blank, cadastros (consultas (grids) e formulários), controle, filtros, dashboard, gráficos, relatórios e módulos de segurança. Posteriormente foi feito a implantação da aplicação gerada no Apache do Laragon e configurado o ambiente de produção da aplicação final. |
 | Aula 9: 24/04/2024 | DW, OLAP x OLTP, Cubo de dados, dimensão x fato, floco de neve, BI, criação de banco de dados na núvem.Revisão de instalação de SQL Server e outros bancos. Serviço x Instância de banco. SQL Joins, exercícios com SQL, Bancos relacionais x não relacionais. Portal Brasileiro de [dados abertos](https://dados.gov.br/home). [Slides 1](https://docs.google.com/presentation/d/e/2PACX-1vS_3oiweAkp77SDlWQLfdcDyO6sZ8C7iM1vkZl8lJXJTSbR5rLNCNWUoOQWugRgovVIw2qQPHeYeCcG/pub?start=false&loop=false&delayms=3000).[Slides 2](https://docs.google.com/presentation/d/e/2PACX-1vTSoaH7wxwdQE4lB6aQQPMZvCmW9ey9WXIjSTWgn5m1dywxWj1cMFCsMjrQPujFoAcLbGIPKkYNM0z4/pub?start=false&loop=false&delayms=3000). [Mais operações no SSMS (atualizações)](https://docs.google.com/presentation/d/e/2PACX-1vTrPDTA9Gazqvb2DM80bulnR4oMMFvp6gsfZE489Arkjtaf_Ex1wnn0N9Yi6dzBOH3cEegYUP_339SC/pub?start=false&loop=false&delayms=3000).[Slides comandos SQL](https://docs.google.com/presentation/d/e/2PACX-1vS3Hd0OvpMSQ1YM-bNSa1cNv9T4sCWI-TbCSokPmbS8rkJSPQpF2CxaZiJNMpshfgg6aQVWrXpfIytQ/pub?start=false&loop=false&delayms=3000). [SELECT JOIN](https://docs.google.com/presentation/d/e/2PACX-1vSy5og35u656U4QNUhjvdkFiIwhN2SGuZzjILHVodq-Wbp5B_Vrf79oDWuZDcBeTCBoxcZg5HEZbT_c/pub?start=false&loop=false&delayms=3000).|
 | Aula 10: 08/05/2024 | NoSQL e Blockchain. |
-| Aula 11: 15/05/2024 | Bancos NoSQL + Exercícios. |
+| Aula 11: 15/05/2024 | Avaliação 2 |
 | Aula 12: 22/05/2024 | Blockchain + Projeto exercício. |
 | Aula 13: 29/05/2024 | Blockchain + Projeto exercício. |
 | Aula 14: 05/06/2024 | Blockchain + Projeto exercício. |
@@ -130,7 +130,7 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 ## 6. Unidade de avaliação:
 
 Avaliação 1: 27/03/2024 <br>
-Avaliação 2: 08/05/2024 <br>
+Avaliação 2: 15/05/2024 <br>
 Avaliação 3: 05/06/2024 <br>
 PF: 12/06/2024 <br>
 
