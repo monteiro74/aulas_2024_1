@@ -183,7 +183,7 @@ Para este exercício faça:
 ## 7. Unidade de avaliação:
 
 Avaliação 1: 28/03/2024 <br>
-Avaliação 2: 02/05/2024 <br>
+Avaliação 2: 09/05/2024 <br>
 Avaliação 3: 20/06/2024 <br>
 PF: 20/06/2024 <br>
 
