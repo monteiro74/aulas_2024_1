@@ -184,7 +184,7 @@ Para este exercício faça:
 
 Avaliação 1: 28/03/2024 <br>
 Avaliação 2: 02/05/2024 <br>
-Avaliação 3: 06/06/2024 <br>
+Avaliação 3: 20/06/2024 <br>
 PF: 20/06/2024 <br>
 
 ---

@@ -118,8 +118,8 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 ## 6. Unidade de avaliação:
 
 Avaliação 1: 26/03/2024 <br>
-Avaliação 2: 30/04/2024 <br>
-Avaliação 3: 28/05/2024 <br>
+Avaliação 2: 07/05/2024 <br>
+Avaliação 3: 04/06/2024 <br>
 PF: 04/06/2024 <br>
 
 
