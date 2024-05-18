@@ -14,6 +14,7 @@
   - [3. Repositórios de apoio:](#3-repositórios-de-apoio)
   - [4. Datas de aulas:](#4-datas-de-aulas)
     - [4.1. Exercício](#41-exercício)
+    - [4.2. Exercício 2](#42-exercício-2)
     - [4.2. Diagrama entidade relacionamento](#42-diagrama-entidade-relacionamento)
   - [5. Links para download de ferramentas para diagramação com UML:](#5-links-para-download-de-ferramentas-para-diagramação-com-uml)
   - [6. Artigos:](#6-artigos)
@@ -104,8 +105,8 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 | Aula 9: 02/05/2024 |  [Arquitetura de software, componentes, webapp, wireframe, mockup, protótipo](https://docs.google.com/presentation/d/e/2PACX-1vQDohlHUIuAm8KyYZR0xUdiaf04bYH5E1sYL0wTk0jLQTfDbgtaW1b0KdWuW31HWJceXcUFVJIdKe01/pub?start=false&loop=false&delayms=3000). [Tendências na área de engenharia de software](https://docs.google.com/presentation/d/e/2PACX-1vSEu7unXMlyCvei4IJD9xgPxLs7a14EKBXW_23HSmZfXXEKmMj7Vwyz0CHy4MchT264DrEz9hfOEO4Q/pub?start=false&loop=false&delayms=3000). |
 | Aula 10: 09/05/2024 | Avaliação 2. |
 | Aula 11: 16/05/2024 | Resolução de exercício (continuação da aula 8). |
-| Aula 12: 23/05/2024 | Projeto de software com ferramenta IDE RAD. |
-| Aula 13: 06/06/2024 | Projeto de software com ferramenta IDE RAD. |
+| Aula 12: 23/05/2024 | Resolução de exercício. |
+| Aula 13: 06/06/2024 | Resolução de exercício. |
 | Aula 14: 20/06/2024 | Avaliação 3 |
 
 
@@ -142,7 +143,11 @@ Para este exercício faça:
 2) Elaborar um diagrama de casos de uso para o cenário acima, indicando possível situações de uso(funcionalidades) em um sistema.
 3) Elaborar um diagrama de sequência para documentar o atendimento descrito acima.
 
-...continua nos slides da aula 8 !!!
+...mais detalhes, continua nos slides da aula 8 !!!
+
+### 4.2. Exercício 2
+
+Exercício para o dia 23/05/2024.
 
 ---
 ### 4.2. Diagrama entidade relacionamento
