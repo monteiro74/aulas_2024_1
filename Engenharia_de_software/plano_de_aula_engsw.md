@@ -13,7 +13,7 @@
   - [2. Sites utilizados:](#2-sites-utilizados)
   - [3. Repositórios de apoio:](#3-repositórios-de-apoio)
   - [4. Datas de aulas:](#4-datas-de-aulas)
-    - [4.1. Exercícios](#41-exercícios)
+    - [4.1. Exercício](#41-exercício)
     - [4.2. Diagrama entidade relacionamento](#42-diagrama-entidade-relacionamento)
   - [5. Links para download de ferramentas para diagramação com UML:](#5-links-para-download-de-ferramentas-para-diagramação-com-uml)
   - [6. Artigos:](#6-artigos)
@@ -110,7 +110,7 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 
 
 ---
-### 4.1. Exercícios
+### 4.1. Exercício
 
 Exercício 1:
 Uma clínica veterinária atende apenas os animais: gatos e cachorros. 
@@ -129,8 +129,6 @@ Para este exercício faça:
 3) Identificar multiplicidade(cardinalidade) nas ligações entre classes.
 4) Você pode sugerir atributos e métodos para as classes.
 
-
-Exercício 2:
 Quando um cliente chega na clínica veterinária ele é atendido por um atendente. 
 O atendente deve verificar se existe agenda disponível com um veterinário. 
 O atendente deve colocar o cliente e seu animal na fila de espera, se for o caso. 
@@ -144,6 +142,7 @@ Para este exercício faça:
 2) Elaborar um diagrama de casos de uso para o cenário acima, indicando possível situações de uso(funcionalidades) em um sistema.
 3) Elaborar um diagrama de sequência para documentar o atendimento descrito acima.
 
+...continua nos slides da aula 8 !!!
 
 ---
 ### 4.2. Diagrama entidade relacionamento
