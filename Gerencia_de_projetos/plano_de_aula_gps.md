@@ -13,6 +13,7 @@
   - [3. Repositórios de apoio:](#3-repositórios-de-apoio)
   - [4. Datas de aulas:](#4-datas-de-aulas)
     - [4.1. Diagrama entidade relacionamento](#41-diagrama-entidade-relacionamento)
+    - [4.1. Tabela em Latex](#41-tabela-em-latex)
   - [5. Artigos:](#5-artigos)
   - [6. Unidade de avaliação:](#6-unidade-de-avaliação)
   - [7. Referências:](#7-referências)
@@ -104,6 +105,24 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 ### 4.1. Diagrama entidade relacionamento
 
 ![https://raw.githubusercontent.com/monteiro74/aulas_2024_1/main/figuras/der_gps.png](https://raw.githubusercontent.com/monteiro74/aulas_2024_1/main/figuras/der_gps.png)
+
+
+### 4.1. Tabela em Latex
+
+\begin{table}[h]
+\begin{tabular}{|l|l|l|l|}
+\hline
+\textbf{1. Pessoal}              & \textbf{Quantidade} & \textbf{Valor unitário} & \textbf{Total} \\ \hline
+Analista                         & 12                  &  2000                    & 24000          \\ \hline
+Programador                      & 12                  & 2000                    & 24000          \\ \hline
+\textbf{2. Material permanente}  & \textbf{Quantidade} & \textbf{Valor Unitário} & \textbf{Total} \\ \hline
+Notebook                         & 2                   & 4000                    & 8000           \\ \hline
+Mouse                            & 2                   & 100                     & 200            \\ \hline
+\textbf{3. Serviços de terceiro} & \textbf{Quantidade} & \textbf{Valor Unitário} & \textbf{Total} \\ \hline
+Hospedagem web                   & 12                  & 1000                    & 12000          \\ \hline
+\textbf{Total}                   & \textbf{}           & \textbf{}               & \textbf{57400} \\ \hline
+\end{tabular}
+\end{table}
 
 
 ---
