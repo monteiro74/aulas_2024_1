@@ -13,7 +13,7 @@
   - [3. Repositórios de apoio:](#3-repositórios-de-apoio)
   - [4. Datas de aulas:](#4-datas-de-aulas)
     - [4.1. Diagrama entidade relacionamento](#41-diagrama-entidade-relacionamento)
-    - [4.1. Tabela em Latex](#41-tabela-em-latex)
+    - [4.2. Tabela em Latex](#42-tabela-em-latex)
   - [5. Artigos:](#5-artigos)
   - [6. Unidade de avaliação:](#6-unidade-de-avaliação)
   - [7. Referências:](#7-referências)
@@ -107,7 +107,7 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 ![https://raw.githubusercontent.com/monteiro74/aulas_2024_1/main/figuras/der_gps.png](https://raw.githubusercontent.com/monteiro74/aulas_2024_1/main/figuras/der_gps.png)
 
 
-### 4.1. Tabela em Latex
+### 4.2. Tabela em Latex
 
 \begin{table}[h]
 \begin{tabular}{|l|l|l|l|}
