@@ -109,11 +109,12 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 
 ![https://raw.githubusercontent.com/monteiro74/aulas_2024_1/main/figuras/der_mpbd.png](https://raw.githubusercontent.com/monteiro74/aulas_2024_1/main/figuras/der_mpbd.png)
 
+---
 ### 4.2. Exercício modelagem (mineradora) com SQL Server:
 
 Execute o exercício abaixo no Sql Server:
 
-```
+
 1. Uma empresa possui autorização para explorar uma área na qual foi encontrado minério de interesse ecoônomico.
 2. Nesta área pode-se explorar: ouro, casiterita, dolomito e zinco.
 3. A licença para explorar a área tem uma data de início no qual foi feita a outurga e teá um data final.
@@ -138,7 +139,7 @@ Cada atividade de mineração tem um código, responsável, data de início e fi
 21. A mineradora tem uma estação meteorológica automática com pluviometro, os dados são coletados para posterior análise.
 22. Deseja se relacionar os dados climátivos com a produção de cada área.
 23. A empresa também mantém um registro da produção de areia de cascalho, os quais são sub produtos da mineração.
-```
+
 
 A partir da descrição acima:
 1. Gerar as tabelas dentro de um banco de dados no SQL Server.
