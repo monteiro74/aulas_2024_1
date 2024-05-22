@@ -125,7 +125,7 @@ Execute o exercício abaixo no Sql Server:
 
 1. Uma empresa possui autorização para explorar uma área na qual foi encontrado minério de interesse econômico.
 2. Nesta área pode-se explorar: ouro, casiterita, dolomito e zinco.
-3. A licença para explorar a área tem uma data de início no qual foi feita a outurga e teá um data final.
+3. A licença para explorar a área tem uma data de início no qual foi feita a outorga e teá um data final.
 3. Nesta área da empresa estão 3 jazidas.
 4. Uma jazida tem apenas ouro. Nas outras duas jazidas foi detectado também diamante.
 5. Em uma parte da área não é possível realizar nenhuma operação e é considerada área de reserva legal.
