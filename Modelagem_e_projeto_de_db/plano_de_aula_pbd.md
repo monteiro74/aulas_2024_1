@@ -107,7 +107,14 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 ---
 ### 4.1. Diagrama entidade relacionamento
 
+Abaixo temos um exemplo de diagrama entidade relaiconamento feito no DBeaver:
+
 ![https://raw.githubusercontent.com/monteiro74/aulas_2024_1/main/figuras/der_mpbd.png](https://raw.githubusercontent.com/monteiro74/aulas_2024_1/main/figuras/der_mpbd.png)
+
+
+O diagrama de banco de dados feito no SQL Server é o que segue abaixo:
+
+![https://raw.githubusercontent.com/monteiro74/aulas_2024_1/main/figuras/diagrama_de_banco_de_dados.png](https://raw.githubusercontent.com/monteiro74/aulas_2024_1/main/figuras/diagrama_de_banco_de_dados.png)
 
 ---
 ### 4.2. Exercício modelagem (mineradora) com SQL Server:
