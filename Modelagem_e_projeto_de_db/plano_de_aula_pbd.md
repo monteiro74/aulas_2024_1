@@ -121,7 +121,7 @@ Execute o exercício abaixo no Sql Server:
 5. Uma jazida tem apenas ouro. Nas outras duas jazidas foi detectado também diamante.
 6. Em uma parte da área não é possível realizar nenhuma operação e é considerada área de reserva legal.
 7. Uma parte da área será usada como pátio de manobra e para construção administrativa das operações de mineração.
-8. Cada área contendo minerais deve informar sua produção diária.
+8. Cada área contendo minerais deve informar sua produção diária (quantidade, data, tipo de mineral, etc)
 9. Cada área tem coordenadas delimitadoras.
 10. As atividades de lavra neste caso são: prospecção, avaliação de amostras, preparo de área, extração, filtrage e limpeza, pesagem, teste de qualidade, registro de produção e expedição final.
 11. Cada atividade de operação de extração deve ter uma registro com data hora, responsável e área, bem como o que foi extraído deve ter seu lote identificado.
@@ -133,11 +133,11 @@ Cada atividade de mineração tem um código, responsável, data de início e fi
 16. É necessário monitorar toda a fauna da região com pelo menos um cadastros dos animais presentes.
 17. É necessário um levantamento de todas as árvores dentro e ao redor da propriedade da mineradora.
 18. É necessário guardar no sistema mapas indicando as áreas de extração, preservação, pátios e administrativos ou outros mapas, de interesse da mineradora como (altimétrico, geomorfológico, hídrico, topográfico, etc).
-19. O sistema deverá possuir um cadastro dos funcionários e de veículos (e maquinário).
+19. O sistema deverá possuir um cadastro dos funcionários e de veículos (e maquinário), neste cadastro deve-se informar quem são os engenheiros responsáveis.
 20. O sistema deverá suportar o armazenamento de arquivos PDF (como laudos, relatórios, alvará de pesquisa mineral, concessão de lavra e portaria de lavra, etc).
 21. A mineradora tem uma estação meteorológica automática com pluviometro, os dados são coletados para posterior análise.
 22. Deseja se relacionar os dados climátivos com a produção de cada área.
-23. A empresa também mantém um registro da produção de areia de cascalho, sub produtos da mineração.
+23. A empresa também mantém um registro da produção de areia de cascalho, os quais são sub produtos da mineração.
 ```
 
 A partir da descrição acima:
@@ -145,7 +145,7 @@ A partir da descrição acima:
 2. Fazer um banco do banco e exportar o backup.
 3. Gerar o desenho entidade relacionamento no SQL Server e exportar como imagem.
 4. Enviar no Sigaa o arquivo do banco e a imagem até o final da aula.
-  
+
 
 ---
 ## 5. Artigos:
