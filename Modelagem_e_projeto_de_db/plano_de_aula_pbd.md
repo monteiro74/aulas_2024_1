@@ -142,9 +142,9 @@ Cada atividade de mineração tem um código, responsável, data de início e fi
 
 
 A partir da descrição acima:
-1. Gerar as tabelas dentro de um banco de dados no SQL Server.
+1. Gerar as tabelas dentro de um banco de dados no SQL Server, o nome do banco de dados será seu nome, exemplo bd_nome.
 2. Fazer um backup do banco, exportar o banco.
-3. Gerar o desenho entidade relacionamento no SQL Server e exportar como imagem.
+3. Gerar o diagrama do banco de dados no SQL Server e exportar como imagem, o nome do arquivo de imagem deverá ter seu nome, exemplo diagrama_nome.jpg.
 4. Enviar no Sigaa o arquivo do backup do banco e a imagem até o final da aula.
 
 
