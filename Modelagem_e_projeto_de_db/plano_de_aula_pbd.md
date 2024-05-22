@@ -123,7 +123,7 @@ O diagrama de banco de dados feito no SQL Server é o que segue abaixo:
 
 Execute o exercício abaixo no Sql Server:
 
-1. Uma empresa possui autorização para explorar uma área na qual foi encontrado minério de interesse ecoônomico.
+1. Uma empresa possui autorização para explorar uma área na qual foi encontrado minério de interesse econômico.
 2. Nesta área pode-se explorar: ouro, casiterita, dolomito e zinco.
 3. A licença para explorar a área tem uma data de início no qual foi feita a outurga e teá um data final.
 3. Nesta área da empresa estão 3 jazidas.
@@ -146,12 +146,13 @@ Execute o exercício abaixo no Sql Server:
 20. A mineradora tem uma estação meteorológica automática com pluviometro, os dados são coletados para posterior análise.
 21. Deseja se relacionar os dados climátivos com a produção de cada área.
 22. A empresa também mantém um registro da produção de areia de cascalho, os quais são sub produtos da mineração.
-23. A partir da descrição acima:
+  
+A partir da descrição acima:
 
-Gerar as tabelas dentro de um banco de dados no SQL Server, o nome do banco de dados será seu nome, exemplo bd_nome.
-Fazer um backup do banco, exportar o banco.
-Gerar o diagrama do banco de dados no SQL Server e exportar como imagem, o nome do arquivo de imagem deverá ter seu nome, exemplo diagrama_nome.jpg.
-Enviar no Sigaa o arquivo do backup do banco e a imagem até o final da aula.
+1. Gerar as tabelas dentro de um banco de dados no SQL Server, o nome do banco de dados será seu nome, exemplo bd_nome.
+2. Fazer um backup do banco, exportar o banco.
+3. Gerar o diagrama do banco de dados no SQL Server e exportar como imagem, o nome do arquivo de imagem deverá ter seu nome, exemplo diagrama_nome.jpg.
+4. Enviar no Sigaa o arquivo do backup do banco e a imagem até o final da aula.
 
 
 
