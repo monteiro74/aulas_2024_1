@@ -112,41 +112,7 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 ---
 ### 4.2. Exercício modelagem (mineradora) com SQL Server:
 
-Execute o exercício abaixo no Sql Server:
-
-
-1. Uma empresa possui autorização para explorar uma área na qual foi encontrado minério de interesse ecoônomico.
-2. Nesta área pode-se explorar: ouro, casiterita, dolomito e zinco.
-3. A licença para explorar a área tem uma data de início no qual foi feita a outurga e teá um data final.
-4. Nesta área da empresa estão 3 jazidas.
-5. Uma jazida tem apenas ouro. Nas outras duas jazidas foi detectado também diamante.
-6. Em uma parte da área não é possível realizar nenhuma operação e é considerada área de reserva legal.
-7. Uma parte da área será usada como pátio de manobra e para construção administrativa das operações de mineração.
-8. Cada área contendo minerais deve informar sua produção diária (quantidade, data, tipo de mineral, etc)
-9. Cada área tem coordenadas delimitadoras.
-10. As atividades de lavra neste caso são: prospecção, avaliação de amostras, preparo de área, extração, filtrage e limpeza, pesagem, teste de qualidade, registro de produção e expedição final.
-11. Cada atividade de operação de extração deve ter uma registro com data hora, responsável e área, bem como o que foi extraído deve ter seu lote identificado.
-Cada atividade de mineração tem um código, responsável, data de início e fim, hora de início e fim.
-12. Os testes de qualidade de cada quantidade extraída da área de produção devem ser registrados com pelo menos as informações: código da área, responsável, data, volume e peso.
-13. No registro de produção deve ser anotado o valor do minério na data atual.
-14. Cada tipo de elemento que se deseja explorar tem um tipo de equipamento específico para extração e transporte.
-15. A expedição final deve colocar o material (ouro ou diamente) em um cofre até sua saída da empresa, e o registro do responsável.
-16. É necessário monitorar toda a fauna da região com pelo menos um cadastros dos animais presentes.
-17. É necessário um levantamento de todas as árvores dentro e ao redor da propriedade da mineradora.
-18. É necessário guardar no sistema mapas indicando as áreas de extração, preservação, pátios e administrativos ou outros mapas, de interesse da mineradora como (altimétrico, geomorfológico, hídrico, topográfico, etc).
-19. O sistema deverá possuir um cadastro dos funcionários e de veículos (e maquinário), neste cadastro deve-se informar quem são os engenheiros responsáveis.
-20. O sistema deverá suportar o armazenamento de arquivos PDF (como laudos, relatórios, alvará de pesquisa mineral, concessão de lavra e portaria de lavra, etc).
-21. A mineradora tem uma estação meteorológica automática com pluviometro, os dados são coletados para posterior análise.
-22. Deseja se relacionar os dados climátivos com a produção de cada área.
-23. A empresa também mantém um registro da produção de areia de cascalho, os quais são sub produtos da mineração.
-
-
-A partir da descrição acima:
-1. Gerar as tabelas dentro de um banco de dados no SQL Server, o nome do banco de dados será seu nome, exemplo bd_nome.
-2. Fazer um backup do banco, exportar o banco.
-3. Gerar o diagrama do banco de dados no SQL Server e exportar como imagem, o nome do arquivo de imagem deverá ter seu nome, exemplo diagrama_nome.jpg.
-4. Enviar no Sigaa o arquivo do backup do banco e a imagem até o final da aula.
-
+Aguardando nova descrição.
 
 ---
 ## 5. Artigos:
