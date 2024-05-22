@@ -143,9 +143,9 @@ Cada atividade de mineração tem um código, responsável, data de início e fi
 
 A partir da descrição acima:
 1. Gerar as tabelas dentro de um banco de dados no SQL Server.
-2. Fazer um banco do banco e exportar o backup.
+2. Fazer um backup do banco, exportar o banco.
 3. Gerar o desenho entidade relacionamento no SQL Server e exportar como imagem.
-4. Enviar no Sigaa o arquivo do banco e a imagem até o final da aula.
+4. Enviar no Sigaa o arquivo do backup do banco e a imagem até o final da aula.
 
 
 ---
