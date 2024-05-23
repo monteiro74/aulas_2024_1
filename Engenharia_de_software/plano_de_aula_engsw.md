@@ -105,7 +105,7 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 | Aula 9: 02/05/2024 |  [Arquitetura de software, componentes, webapp, wireframe, mockup, protótipo](https://docs.google.com/presentation/d/e/2PACX-1vQDohlHUIuAm8KyYZR0xUdiaf04bYH5E1sYL0wTk0jLQTfDbgtaW1b0KdWuW31HWJceXcUFVJIdKe01/pub?start=false&loop=false&delayms=3000). [Tendências na área de engenharia de software](https://docs.google.com/presentation/d/e/2PACX-1vSEu7unXMlyCvei4IJD9xgPxLs7a14EKBXW_23HSmZfXXEKmMj7Vwyz0CHy4MchT264DrEz9hfOEO4Q/pub?start=false&loop=false&delayms=3000). |
 | Aula 10: 09/05/2024 | Avaliação 2. |
 | Aula 11: 16/05/2024 | Resolução de exercício (continuação da aula 8). |
-| Aula 12: 23/05/2024 | Resolução de exercício. |
+| Aula 12: 23/05/2024 | Resolução de exercício. [Documento de projeto](https://github.com/monteiro74/aulas_2024_1/blob/main/Engenharia_de_software/Doc_projeto_NOME_Aluno_v1.docx) |
 | Aula 13: 06/06/2024 | Resolução de exercício. |
 | Aula 14: 20/06/2024 | Avaliação 3 |
 
