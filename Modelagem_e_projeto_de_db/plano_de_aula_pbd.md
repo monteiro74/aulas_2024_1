@@ -132,19 +132,19 @@ Execute o exercício abaixo no Sql Server:
 6. Uma parte da área será usada como pátio de manobra e para construção administrativa das operações de mineração.
 7. Cada área contendo minerais deve informar sua produção diária (quantidade, data, tipo de mineral, etc)
 8. Cada área tem coordenadas delimitadoras.
-9. As atividades de lavra neste caso são: prospecção, avaliação de amostras, preparo de área, extração, filtrage e limpeza, pesagem, teste de qualidade, registro de produção e expedição final.
+9. As atividades de lavra neste caso são: prospecção, avaliação de amostras, preparo de área, extração, filtragem e limpeza, pesagem, teste de qualidade, registro de produção e expedição final.
 10. Cada atividade de operação de extração deve ter uma registro com data hora, responsável e área, bem como o que foi extraído deve ter seu lote identificado. Cada atividade de mineração tem um código, responsável, data de início e fim, hora de início e fim.
 11. Os testes de qualidade de cada lote extraída da área de produção devem ser registrados com pelo menos as informações: código da área, responsável, data, volume e peso.
 12. No registro de produção deve ser anotado o valor do minério na data atual.
 13. Cada tipo de elemento que se deseja explorar tem um tipo de equipamento específico para extração e transporte.
-14. A expedição final deve colocar o material (ouro ou diamente) em um cofre até sua saída da empresa, e o registro do responsável.
+14. A expedição final deve colocar o material (ouro ou outro) em um cofre até sua saída da empresa, e o registro do responsável.
 15. É necessário monitorar toda a fauna da região com pelo menos um cadastros dos animais presentes.
 16. É necessário um levantamento de todas as árvores dentro e ao redor da propriedade da mineradora.
 17. É necessário guardar no sistema mapas indicando as áreas de extração, preservação, pátios e administrativos ou outros mapas, de interesse da mineradora como (altimétrico, geomorfológico, hídrico, topográfico, etc).
 18. O sistema deverá possuir um cadastro dos funcionários e de veículos (e maquinário), neste cadastro deve-se informar quem são os engenheiros responsáveis.
 19. O sistema deverá suportar o armazenamento de arquivos PDF (como laudos, relatórios, alvará de pesquisa mineral, concessão de lavra e portaria de lavra, etc).
-20. A mineradora tem uma estação meteorológica automática com pluviometro, os dados são coletados para posterior análise.
-21. Deseja se relacionar os dados climátivos com a produção de cada área.
+20. A mineradora tem uma estação meteorológica automática com pluviômetro, os dados são coletados para posterior análise.
+21. Deseja se relacionar os dados climáticos com a produção de cada área.
 22. A empresa também mantém um registro da produção de areia de cascalho, os quais são sub produtos da mineração.
   
 A partir da descrição acima:
