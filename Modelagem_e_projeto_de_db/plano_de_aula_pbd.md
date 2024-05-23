@@ -127,7 +127,7 @@ Execute o exercício abaixo no Sql Server:
 2. Nesta área pode-se explorar: ouro, cassiterita, dolomito e zinco.
 3. A licença para explorar a área tem uma data de início no qual foi feita a outorga e teá um data final.
 3. Nesta área da empresa estão 3 jazidas.
-4. Uma jazida tem apenas ouro. Nas outras duas jazidas foi detectado também diamante.
+4. Uma jazida tem apenas ouro. Nas outras duas jazidas foi detectado também cassiterita.
 5. Em uma parte da área não é possível realizar nenhuma operação e é considerada área de reserva legal.
 6. Uma parte da área será usada como pátio de manobra e para construção administrativa das operações de mineração.
 7. Cada área contendo minerais deve informar sua produção diária (quantidade, data, tipo de mineral, etc)
@@ -136,7 +136,7 @@ Execute o exercício abaixo no Sql Server:
 10. Cada atividade de operação de extração deve ter uma registro com data hora, responsável e área, bem como o que foi extraído deve ter seu lote identificado. Cada atividade de mineração tem um código, responsável, data de início e fim, hora de início e fim.
 11. Os testes de qualidade de cada lote extraída da área de produção devem ser registrados com pelo menos as informações: código da área, responsável, data, volume e peso.
 12. No registro de produção deve ser anotado o valor do minério na data atual.
-13. Cada tipo de elemento que se deseja explorar tem um tipo de equipamento específico para extração e transporte.
+13. Cada tipo de elemento (mineral) que se deseja explorar tem um tipo de equipamento específico para extração e transporte.
 14. A expedição final deve colocar o material (ouro ou outro) em um cofre até sua saída da empresa, e o registro do responsável.
 15. É necessário monitorar toda a fauna da região com pelo menos um cadastros dos animais presentes.
 16. É necessário um levantamento de todas as árvores dentro e ao redor da propriedade da mineradora.
