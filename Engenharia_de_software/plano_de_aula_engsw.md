@@ -151,9 +151,7 @@ Exercício para o dia 23/05/2024.
 
 Extensões para o Visual Studio Code trabalhar com Markdown:
 
-![https://github.com/monteiro74/aulas_2024_1/blob/main/figuras/extensoes1.PNG](https://github.com/monteiro74/aulas_2024_1/blob/main/figuras/extensoes1.PNG) ![https://github.com/monteiro74/aulas_2024_1/blob/main/figuras/extensoes2.PNG](https://github.com/monteiro74/aulas_2024_1/blob/main/figuras/extensoes2.PNG) ![https://github.com/monteiro74/aulas_2024_1/blob/main/figuras/extensoes3.PNG](https://github.com/monteiro74/aulas_2024_1/blob/main/figuras/extensoes3.PNG)
-
-![https://github.com/monteiro74/aulas_2024_1/blob/main/figuras/extensoes4.PNG](https://github.com/monteiro74/aulas_2024_1/blob/main/figuras/extensoes4.PNG)
+![https://github.com/monteiro74/aulas_2024_1/blob/main/figuras/extensoes1.PNG](https://github.com/monteiro74/aulas_2024_1/blob/main/figuras/extensoes1.PNG) ![https://github.com/monteiro74/aulas_2024_1/blob/main/figuras/extensoes2.PNG](https://github.com/monteiro74/aulas_2024_1/blob/main/figuras/extensoes2.PNG) ![https://github.com/monteiro74/aulas_2024_1/blob/main/figuras/extensoes3.PNG](https://github.com/monteiro74/aulas_2024_1/blob/main/figuras/extensoes3.PNG) ![https://github.com/monteiro74/aulas_2024_1/blob/main/figuras/extensoes4.PNG](https://github.com/monteiro74/aulas_2024_1/blob/main/figuras/extensoes4.PNG)
 
 
 ---
