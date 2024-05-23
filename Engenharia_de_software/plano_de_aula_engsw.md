@@ -15,7 +15,7 @@
   - [4. Datas de aulas:](#4-datas-de-aulas)
     - [4.1. Exercício](#41-exercício)
     - [4.2. Exercício 2](#42-exercício-2)
-    - [4.2. Diagrama entidade relacionamento](#42-diagrama-entidade-relacionamento)
+    - [4.3. Diagrama entidade relacionamento](#43-diagrama-entidade-relacionamento)
   - [5. Links para download de ferramentas para diagramação com UML:](#5-links-para-download-de-ferramentas-para-diagramação-com-uml)
   - [6. Artigos:](#6-artigos)
   - [7. Unidade de avaliação:](#7-unidade-de-avaliação)
@@ -149,8 +149,12 @@ Para este exercício faça:
 
 Exercício para o dia 23/05/2024.
 
+Extensões para o Visual Studio Code trabalhar com Markdown:
+
+
+
 ---
-### 4.2. Diagrama entidade relacionamento
+### 4.3. Diagrama entidade relacionamento
 
 ![https://raw.githubusercontent.com/monteiro74/aulas_2024_1/main/figuras/der_engsw.png](https://raw.githubusercontent.com/monteiro74/aulas_2024_1/main/figuras/der_engsw.png)
 
