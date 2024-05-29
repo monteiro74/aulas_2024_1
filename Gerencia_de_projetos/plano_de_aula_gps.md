@@ -23,7 +23,7 @@
   - [11. Curso **grátis** sobre gerência de projetos:](#11-curso-grátis-sobre-gerência-de-projetos)
 
 
-
+---
 ## 1. Turma: FACET-SNP-312 - GERÊNCIA DE PROJETOS DE SOFTWARE (60h) - Turma: 01 (2024.1)
 
 ### 1.1. Carga Horária Total: 60.

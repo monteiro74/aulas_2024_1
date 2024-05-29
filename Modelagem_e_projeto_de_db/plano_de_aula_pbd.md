@@ -25,7 +25,7 @@
 
 
 
-
+---
 ## 1. Turma: FACET-SNP-323 - MODELAGEM E PROJETO DE BANCO DE DADOS (60h) - Turma: 01 (2024.1)
 
 ### 1.1. Carga Horária Total: 60.
