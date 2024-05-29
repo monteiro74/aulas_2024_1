@@ -98,7 +98,7 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 | Aula 11: 14/05/2024 | Exercício de desenvolvimento de projeto. |
 | Aula 12: 21/05/2024 | Exercício de desenvolvimento de projeto. |
 | Aula 13: 28/05/2024 | Exercício de desenvolvimento de projeto. |
-| Aula 14: 04/06/2024 | Avaliação 3. |
+| Aula 14: 04/06/2024 | Avaliação 3. Revisão do documento de projeto. |
 
 
 ---
