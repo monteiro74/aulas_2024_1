@@ -178,3 +178,9 @@ Um site interessante para livros usados é a Estante Virtual: https://www.estant
 * [Gerenciamento de Projetos com Project Libre](https://www.udemy.com/course/ferramentas-do-gp-projectlibre/)
 * [Introdução Gratuita: Preparatório on demand para o exame PMP autorizado do PMI](https://www.pmi.org/shop/brazil/p-/elearning/introdu%C3%A7%C3%A3o-gratuita-preparat%C3%B3rio-on-demand-para-o-exame-pmp-autorizado-do-pmi/el053)
 
+
+---
+## 12. Como estudar
+
+https://www.instagram.com/reel/C55lFTMAL_A/?igsh=ZTR6OW1jNmRyeTZ2
+

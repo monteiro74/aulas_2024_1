@@ -219,3 +219,9 @@ Um site interessante para livros usados é a Estante Virtual: https://www.estant
 * [Introdução a banco de dados com MySQL & PHPMyAdmin](https://www.udemy.com/course/mysql_phpmyadmin/)
 
 * [Introdução a Bancos de Dados e Linguagem SQL](https://www.udemy.com/course/introducao-a-bancos-de-dados-e-linguagem-sql/)
+
+---
+## 12. Como estudar
+
+https://www.instagram.com/reel/C55lFTMAL_A/?igsh=ZTR6OW1jNmRyeTZ2
+

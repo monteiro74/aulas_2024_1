@@ -25,6 +25,7 @@
   - [11. Lista de ferramentas:](#11-lista-de-ferramentas)
   - [12. Curiosidade... onde adquirir livros baratos?](#12-curiosidade-onde-adquirir-livros-baratos)
   - [13. Cursos **gratuítos**:](#13-cursos-gratuítos)
+  - [12. Como estudar](#12-como-estudar)
 
 
 
@@ -239,4 +240,10 @@ Um site interessante para livros usados é a Estante Virtual: https://www.estant
 * [Análise e Levantamento de Requisitos de Software](https://www.udemy.com/course/analise-de-requisitos-de-software/)
 
 * [Noções básicas de DA (Disciplined Agile) - Portuguese LatAm](https://www.pmi.org/shop/brazil/p-/elearning/no%C3%A7%C3%B5es-b%C3%A1sicas-de-da-(disciplined-agile)----portuguese-latam/e00197)
+
+
+---
+## 12. Como estudar
+
+https://www.instagram.com/reel/C55lFTMAL_A/?igsh=ZTR6OW1jNmRyeTZ2
 
