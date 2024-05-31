@@ -21,6 +21,7 @@
   - [9. Lista de ferramentas:](#9-lista-de-ferramentas)
   - [10. Curiosidade... onde adquirir livros baratos?](#10-curiosidade-onde-adquirir-livros-baratos)
   - [11. Curso **grátis** sobre gerência de projetos:](#11-curso-grátis-sobre-gerência-de-projetos)
+  - [12. Como estudar](#12-como-estudar)
 
 
 ---
