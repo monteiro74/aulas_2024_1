@@ -25,7 +25,7 @@
   - [11. Lista de ferramentas:](#11-lista-de-ferramentas)
   - [12. Curiosidade... onde adquirir livros baratos?](#12-curiosidade-onde-adquirir-livros-baratos)
   - [13. Cursos **gratuítos**:](#13-cursos-gratuítos)
-  - [12. Como estudar](#12-como-estudar)
+  - [14. Como estudar](#14-como-estudar)
 
 
 
@@ -243,7 +243,7 @@ Um site interessante para livros usados é a Estante Virtual: https://www.estant
 
 
 ---
-## 12. Como estudar
+## 14. Como estudar
 
 https://www.instagram.com/reel/C55lFTMAL_A/?igsh=ZTR6OW1jNmRyeTZ2
 
