@@ -101,7 +101,7 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 | Aula 13: 05/06/2024 | Exercícios com SQL Server + PowerBI + Exercícios com Access + Teoria de banco de dados |
 | Aula 14: 12/06/2024 | Avaliação 3 |
 
-
+![Exercício da aula 12](https://raw.githubusercontent.com/monteiro74/aulas_2024_1/main/figuras/Aula12.jpg)
 
 
 ---
