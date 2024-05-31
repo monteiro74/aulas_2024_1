@@ -22,6 +22,7 @@
   - [9. Lista de ferramentas:](#9-lista-de-ferramentas)
   - [10. Curiosidade... onde adquirir livros baratos?](#10-curiosidade-onde-adquirir-livros-baratos)
   - [11. Cursos **grátis** sobre SQL Server e MySQL:](#11-cursos-grátis-sobre-sql-server-e-mysql)
+  - [12. Como estudar](#12-como-estudar)
 
 
 
