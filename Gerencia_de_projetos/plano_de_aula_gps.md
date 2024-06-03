@@ -99,7 +99,7 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 | Aula 11: 14/05/2024 | Exercício de desenvolvimento de documento de projeto com Latex no Overleaf. |
 | Aula 12: 21/05/2024 | Exercício de desenvolvimento de documento de projeto com Latex no Overleaf. |
 | Aula 13: 28/05/2024 | Exercício de desenvolvimento de documento de projeto com Latex no Overleaf. |
-| Aula 14: 04/06/2024 | Avaliação 3. Revisão do documento de projeto. Conteúdo da avaliação 3: o mesmo conteúdo da avaliação 1 + os artigos 1, 2 e 3. |
+| Aula 14: 04/06/2024 | Avaliação 3. Revisão do documento de projeto. Conteúdo da avaliação 3: o mesmo conteúdo da avaliação 1 + os artigos 3, 4 e 5. |
 
 
 ---
