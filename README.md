@@ -7,9 +7,9 @@ aulas_2024-1
 
 # Disciplinas, ministradas em 2024/1.
 
-1. Engenharia de Software
-2. Gerência de projeto de software
-3. Modelagem e projeto de banco de dados
+1. [Engenharia de Software](https://github.com/monteiro74/aulas_2024_1/tree/main/Engenharia_de_software)
+2. [Gerência de projeto de software](https://github.com/monteiro74/aulas_2024_1/blob/main/Gerencia_de_projetos/plano_de_aula_gps.md)
+3. [Modelagem e projeto de banco de dados](https://github.com/monteiro74/aulas_2024_1/blob/main/Modelagem_e_projeto_de_db/plano_de_aula_pbd.md)
 
 
 ---
