@@ -27,6 +27,7 @@
   - [13. Cursos **gratuítos**:](#13-cursos-gratuítos)
   - [14. Como estudar](#14-como-estudar)
   - [15. Resolução de exercícios:](#15-resolução-de-exercícios)
+    - [Resolução do exercício acima:](#resolução-do-exercício-acima)
 
 
 
@@ -281,7 +282,10 @@ Para a descrição a faça em markdown:
 7. Deployment diagram
 
 
+### Resolução do exercício acima:
+
 1. Diagrama ER
+   
 ```mermaid
 erDiagram
     CLIENTE ||--o{ ANIMAL : possui
@@ -351,7 +355,7 @@ erDiagram
 
 ```
 
-2. Class diagram
+1. Class diagram
 
 ```mermaid
 classDiagram
