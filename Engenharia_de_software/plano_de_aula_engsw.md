@@ -90,7 +90,7 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 
 
 ---
-## 4. Datas de aulas:<br>
+## 4. Datas de aulas e conteúdo:<br>
 
 | Data    | Conteúdo |
 | -------- | ------- |
