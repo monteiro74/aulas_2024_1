@@ -524,29 +524,21 @@ flowchart TD
 5. Use Case Diagram
 
 ```mermaid
-usecase
+usecaseDiagram
     actor Cliente
     actor Atendente
     actor Veterinario
 
-    usecase UC1 as "Fazer cadastro"
-    usecase UC2 as "Marcar horário"
-    usecase UC3 as "Verificar disponibilidade"
-    usecase UC4 as "Entrevistar cliente"
-    usecase UC5 as "Examinar animal"
-    usecase UC6 as "Emitir receita"
-    usecase UC7 as "Finalizar atendimento"
+    Cliente --> (Fazer cadastro)
+    Cliente --> (Marcar horário)
+    Atendente --> (Verificar disponibilidade)
+    Atendente --> (Fazer cadastro)
+    Atendente --> (Marcar horário)
+    Atendente --> (Finalizar atendimento)
+    Veterinario --> (Entrevistar cliente)
+    Veterinario --> (Examinar animal)
+    Veterinario --> (Emitir receita)
 
-    Cliente --> UC1
-    Cliente --> UC2
-    Atendente --> UC3
-    Atendente --> UC1
-    Atendente --> UC2
-    Atendente --> UC7
-    Veterinario --> UC4
-    Veterinario --> UC5
-    Veterinario --> UC6
-    UC3 --> UC2
 
 ```
 
