@@ -16,7 +16,6 @@
     - [4.1. Diagrama entidade relacionamento](#41-diagrama-entidade-relacionamento)
     - [4.2. Exercício modelagem (mineradora) com SQL Server:](#42-exercício-modelagem-mineradora-com-sql-server)
   - [4.3. Exercício de modelagem:](#43-exercício-de-modelagem)
-  - [title: Order example](#title-order-example)
   - [5. Artigos:](#5-artigos)
   - [6. Unidade de avaliação:](#6-unidade-de-avaliação)
   - [7. Referências:](#7-referências)
@@ -161,8 +160,7 @@ A partir da descrição acima:
 ---
 ## 4.3. Exercício de modelagem:
 
-```
-
+```mermaid
 erDiagram
     DEPARTMENT {
         int code PK
@@ -205,24 +203,7 @@ erDiagram
         string kinship
         int empCardNumber FK "Employee ID"
     }
-
-    DEPARTMENT ||--|{ LOCATION : has
-    DEPARTMENT ||--o{ DEPARTMENT_LOCATION : has
-    EMPLOYEE ||--o| DEPARTMENT : manages
-    DEPARTMENT ||--o{ PROJECT : controls
-    EMPLOYEE ||--o{ WORKS_ON : works_on
-    PROJECT ||--o{ WORKS_ON : 
-    EMPLOYEE ||--o{ DEPENDENT : has
-    EMPLOYEE ||--|{ EMPLOYEE : supervises
 ```
-
----
-title: Order example
----
-erDiagram
-    CUSTOMER ||--o{ ORDER : places
-    ORDER ||--|{ LINE-ITEM : contains
-    CUSTOMER }|..|{ DELIVERY-ADDRESS : uses
 
 
 
