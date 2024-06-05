@@ -11,7 +11,7 @@
     - [1.6. Horário de atendimento:](#16-horário-de-atendimento)
   - [2. Sites utilizados:](#2-sites-utilizados)
   - [3. Repositórios de apoio:](#3-repositórios-de-apoio)
-  - [4. Datas de aulas:](#4-datas-de-aulas)
+  - [4. Datas de aulas e conteúdo:](#4-datas-de-aulas-e-conteúdo)
     - [4.1. Diagrama entidade relacionamento](#41-diagrama-entidade-relacionamento)
     - [4.2. Tabela em Latex](#42-tabela-em-latex)
   - [5. Artigos:](#5-artigos)
