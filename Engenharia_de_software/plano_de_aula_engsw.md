@@ -26,6 +26,7 @@
   - [12. Curiosidade... onde adquirir livros baratos?](#12-curiosidade-onde-adquirir-livros-baratos)
   - [13. Cursos **gratuítos**:](#13-cursos-gratuítos)
   - [14. Como estudar](#14-como-estudar)
+  - [15. Resolução de exercícios:](#15-resolução-de-exercícios)
 
 
 
@@ -247,3 +248,395 @@ Um site interessante para livros usados é a Estante Virtual: https://www.estant
 
 https://www.instagram.com/reel/C55lFTMAL_A/?igsh=ZTR6OW1jNmRyeTZ2
 
+
+---
+## 15. Resolução de exercícios:
+
+Descrição do exercício:
+Uma clínica veterinária chamada ABC atende apenas os animais: gatos e cachorros. 
+Os clientes devem fazer um cadastro de si e dos animais. 
+Os clientes devem informar as condições nas quais os animais chegam. 
+Os clientes devem informar o tipo de ração que o animal come. 
+O cliente deve informar hábitos do animal. 
+Para cada animal é possível que mais de um veterinário o atenda. 
+Os animais podem chegar e serem atendidos de acordo com uma agenda do dia. 
+Cada animal atendido receberá uma ficha e um prontuário. 
+Outros dono podem querer marcar horários de atendimento futuro. 
+O atendimento gera uma receita para o animal. 
+Quando um cliente chega na clínica veterinária ele é atendido por um atendente. 
+O atendente deve verificar se existe agenda disponível com um veterinário. 
+O atendente deve colocar o cliente e seu animal na fila de espera, se for o caso. 
+O atendente deve levar o cliente e o animal até o veterinário. 
+O veterinário deve realizar uma entrevista com o dono do animal. 
+O resultado da entrevista deve ir para um formulário. 
+O veterinário deverá examinar o animal e anotar em prontuário(ficha) suas observações. 
+Dependendo da situação do animal este receberá uma receita.
+Para a descrição a faça em markdown:
+1. ER Diagram
+2. Class diagram
+3. Sequence diagram
+4. Flow Chart
+5. Use Case Diagram
+6. Activity diagram
+7. Deployment diagram
+
+
+1. Diagrama ER
+```mermaid
+erDiagram
+    CLIENTE ||--o{ ANIMAL : possui
+    CLIENTE {
+        int id
+        string nome
+        string endereco
+        string telefone
+    }
+
+    ANIMAL ||--|{ CONDICAO : apresenta
+    ANIMAL ||--o{ HABITO : possui
+    ANIMAL ||--o{ FICHA : possui
+    ANIMAL ||--o{ AGENDA : possui
+    ANIMAL ||--o{ RECEITA : possui
+    ANIMAL {
+        int id
+        string nome
+        string tipo
+        string racao
+    }
+
+    CONDICAO {
+        int id
+        string descricao
+    }
+
+    HABITO {
+        int id
+        string descricao
+    }
+
+    VETERINARIO ||--o{ AGENDA : possui
+    VETERINARIO ||--o{ PRONTUARIO : cria
+    VETERINARIO {
+        int id
+        string nome
+        string especialidade
+    }
+
+    AGENDA {
+        int id
+        datetime dataHora
+        boolean disponivel
+    }
+
+    FICHA {
+        int id
+        string descricao
+    }
+
+    RECEITA {
+        int id
+        string descricao
+    }
+
+    ATENDENTE ||--o{ CLIENTE : atende
+    ATENDENTE {
+        int id
+        string nome
+    }
+
+    PRONTUARIO {
+        int id
+        string observacoes
+    }
+
+```
+
+2. Class diagram
+
+```mermaid
+classDiagram
+    class Cliente {
+        +int id
+        +String nome
+        +String endereco
+        +String telefone
+        +getId()
+        +getNome()
+        +getEndereco()
+        +getTelefone()
+        +setId(int id)
+        +setNome(String nome)
+        +setEndereco(String endereco)
+        +setTelefone(String telefone)
+    }
+
+    class Animal {
+        +int id
+        +String nome
+        +String tipo
+        +String racao
+        +getId()
+        +getNome()
+        +getTipo()
+        +getRacao()
+        +setId(int id)
+        +setNome(String nome)
+        +setTipo(String tipo)
+        +setRacao(String racao)
+    }
+
+    class Condicao {
+        +int id
+        +String descricao
+        +getId()
+        +getDescricao()
+        +setId(int id)
+        +setDescricao(String descricao)
+    }
+
+    class Habito {
+        +int id
+        +String descricao
+        +getId()
+        +getDescricao()
+        +setId(int id)
+        +setDescricao(String descricao)
+    }
+
+    class Veterinario {
+        +int id
+        +String nome
+        +String especialidade
+        +getId()
+        +getNome()
+        +getEspecialidade()
+        +setId(int id)
+        +setNome(String nome)
+        +setEspecialidade(String especialidade)
+    }
+
+    class Agenda {
+        +int id
+        +Datetime dataHora
+        +boolean disponivel
+        +getId()
+        +getDataHora()
+        +isDisponivel()
+        +setId(int id)
+        +setDataHora(Datetime dataHora)
+        +setDisponivel(boolean disponivel)
+    }
+
+    class Ficha {
+        +int id
+        +String descricao
+        +getId()
+        +getDescricao()
+        +setId(int id)
+        +setDescricao(String descricao)
+    }
+
+    class Receita {
+        +int id
+        +String descricao
+        +getId()
+        +getDescricao()
+        +setId(int id)
+        +setDescricao(String descricao)
+    }
+
+    class Atendente {
+        +int id
+        +String nome
+        +getId()
+        +getNome()
+        +setId(int id)
+        +setNome(String nome)
+    }
+
+    class Prontuario {
+        +int id
+        +String observacoes
+        +getId()
+        +getObservacoes()
+        +setId(int id)
+        +setObservacoes(String observacoes)
+    }
+
+    Cliente "1" --> "0..*" Animal : possui
+    Animal "1" --> "0..*" Condicao : apresenta
+    Animal "1" --> "0..*" Habito : possui
+    Animal "1" --> "0..1" Ficha : possui
+    Animal "1" --> "0..*" Agenda : possui
+    Animal "1" --> "0..*" Receita : possui
+    Veterinario "1" --> "0..*" Agenda : possui
+    Veterinario "1" --> "0..*" Prontuario : cria
+    Atendente "1" --> "0..*" Cliente : atende
+
+```
+
+3. Sequence diagram
+
+```mermaid
+sequenceDiagram
+    Cliente->>+Atendente: Solicita atendimento
+    Atendente->>Agenda: Verifica disponibilidade
+    alt Disponível
+        Atendente->>+Cliente: Confirma atendimento
+        Cliente->>+Atendente: Informa dados do animal
+        Atendente->>+Veterinario: Encaminha para entrevista
+        Veterinario->>+Cliente: Realiza entrevista
+        Cliente->>Veterinario: Informa condições e hábitos
+        Veterinario->>Prontuario: Anota observações
+        Veterinario->>Receita: Emite receita
+        Veterinario->>Atendente: Finaliza atendimento
+        Atendente->>-Cliente: Informa conclusão
+    else Não disponível
+        Atendente->>-Cliente: Informa indisponibilidade
+    end
+
+```
+
+
+4. Flow Chart
+
+```mermaid
+flowchart TD
+    A[Início] --> B[Cliente chega na clínica]
+    B --> C[Atendente verifica disponibilidade]
+    C -->|Disponível| D[Cliente faz cadastro]
+    D --> E[Animal é encaminhado ao veterinário]
+    E --> F[Veterinário entrevista o cliente]
+    F --> G[Veterinário examina o animal]
+    G --> H[Veterinário anota em prontuário]
+    H --> I[Receita é emitida se necessário]
+    I --> J[Fim do atendimento]
+    C -->|Indisponível| K[Informa indisponibilidade]
+    K --> J
+
+```
+
+
+5. Use Case Diagram
+
+```mermaid
+usecase
+    actor Cliente
+    actor Atendente
+    actor Veterinario
+
+    usecase UC1 as "Fazer cadastro"
+    usecase UC2 as "Marcar horário"
+    usecase UC3 as "Verificar disponibilidade"
+    usecase UC4 as "Entrevistar cliente"
+    usecase UC5 as "Examinar animal"
+    usecase UC6 as "Emitir receita"
+    usecase UC7 as "Finalizar atendimento"
+
+    Cliente --> UC1
+    Cliente --> UC2
+    Atendente --> UC3
+    Atendente --> UC1
+    Atendente --> UC2
+    Atendente --> UC7
+    Veterinario --> UC4
+    Veterinario --> UC5
+    Veterinario --> UC6
+    UC3 --> UC2
+
+```
+
+
+6. Activity diagram
+
+```mermaid
+activityDiagram
+    start
+    :Cliente chega na clínica;
+    :Atendente verifica disponibilidade;
+    decision Disponibilidade
+    Disponibilidade -->|Sim| :Cliente faz cadastro;
+    :Animal é encaminhado ao veterinário;
+    :Veterinário entrevista o cliente;
+    :Veterinário examina o animal;
+    :Veterinário anota em prontuário;
+    decision Receituário
+    Receituário -->|Necessário| :Receita é emitida;
+    Receituário -->|Não necessário| :Finaliza atendimento;
+    Disponibilidade -->|Não| :Informa indisponibilidade;
+    stop
+
+```
+
+
+7. Deployment diagram
+
+```mermaid
+classDiagram
+    class Cliente {
+        +id: int
+        +nome: String
+        +endereco: String
+        +telefone: String
+    }
+
+    class Animal {
+        +id: int
+        +nome: String
+        +tipo: String
+        +racao: String
+    }
+
+    class Condicao {
+        +id: int
+        +descricao: String
+    }
+
+    class Habito {
+        +id: int
+        +descricao: String
+    }
+
+    class Veterinario {
+        +id: int
+        +nome: String
+        +especialidade: String
+    }
+
+    class Agenda {
+        +id: int
+        +dataHora: DateTime
+        +disponivel: boolean
+    }
+
+    class Ficha {
+        +id: int
+        +descricao: String
+    }
+
+    class Receita {
+        +id: int
+        +descricao: String
+    }
+
+    class Atendente {
+        +id: int
+        +nome: String
+    }
+
+    class Prontuario {
+        +id: int
+        +observacoes: String
+    }
+
+    Cliente --|> Animal
+    Animal --|> Condicao
+    Animal --|> Habito
+    Animal --|> Ficha
+    Animal --|> Agenda
+    Animal --|> Receita
+    Veterinario --|> Agenda
+    Veterinario --|> Prontuario
+    Atendente --|> Cliente
+
+```
