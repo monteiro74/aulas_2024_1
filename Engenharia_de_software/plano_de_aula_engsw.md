@@ -27,7 +27,6 @@
   - [13. Cursos **gratuítos**:](#13-cursos-gratuítos)
   - [14. Como estudar](#14-como-estudar)
   - [15. Resolução de exercícios:](#15-resolução-de-exercícios)
-    - [Resolução do exercício acima:](#resolução-do-exercício-acima)
 
 
 
@@ -282,8 +281,7 @@ Para a descrição a faça em markdown:
 7. Deployment diagram
 
 
-### Resolução do exercício acima:
-
+---
 1. Diagrama ER
    
 ```mermaid
@@ -355,7 +353,8 @@ erDiagram
 
 ```
 
-1. Class diagram
+---
+2. Class diagram
 
 ```mermaid
 classDiagram
@@ -479,6 +478,7 @@ classDiagram
 
 ```
 
+---
 3. Sequence diagram
 
 ```mermaid
@@ -501,7 +501,7 @@ sequenceDiagram
 
 ```
 
-
+---
 4. Flow Chart
 
 ```mermaid
@@ -520,7 +520,7 @@ flowchart TD
 
 ```
 
-
+---
 5. Use Case Diagram
 
 ```mermaid
@@ -550,7 +550,7 @@ usecase
 
 ```
 
-
+---
 6. Activity diagram
 
 ```mermaid
@@ -572,7 +572,7 @@ activityDiagram
 
 ```
 
-
+---
 7. Deployment diagram
 
 ```mermaid
