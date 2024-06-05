@@ -276,6 +276,66 @@ erDiagram
     }
 ```
 
+```mermaid
+erDiagram
+    EMPRESA {
+        int codigo
+        string nome
+    }
+
+    DEPARTAMENTO {
+        int codigo
+        string nome
+        int gerente_id
+        date data_inicio_gerencia
+    }
+
+    LOCALIZACAO_DEPARTAMENTO {
+        int codigo_departamento
+        string localizacao
+    }
+
+    PROJETO {
+        int codigo
+        string nome
+        string localizacao
+    }
+
+    EMPREGADO {
+        int numero_carteira_trabalho
+        string nome
+        string endereco
+        float salario
+        string sexo
+        date data_nascimento
+        int supervisor_id
+        int departamento_codigo
+    }
+
+    DEPENDENTE {
+        int empregado_numero_carteira_trabalho
+        string nome
+        string sexo
+        date data_nascimento
+        string grau_parentesco
+    }
+
+    TRABALHA_EM {
+        int empregado_numero_carteira_trabalho
+        int projeto_codigo
+        int horas_semana
+    }
+
+    EMPRESA ||--o{ DEPARTAMENTO : "tem"
+    DEPARTAMENTO ||--|{ LOCALIZACAO_DEPARTAMENTO : "possui"
+    DEPARTAMENTO ||--o{ PROJETO : "controla"
+    DEPARTAMENTO ||--o{ EMPREGADO : "aloca"
+    EMPREGADO ||--o{ DEPENDENTE : "possui"
+    EMPREGADO ||--o| EMPREGADO : "supervisiona" : supervisor_id
+    EMPREGADO ||--o{ TRABALHA_EM : "trabalha em"
+    PROJETO ||--o{ TRABALHA_EM : "alocado"
+
+```
 
 
 ---
