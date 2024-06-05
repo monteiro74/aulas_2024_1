@@ -160,6 +160,77 @@ A partir da descrição acima:
 ---
 ## 4.3. Exercício de modelagem:
 
+Descrição do exercício:
+
+1. A empresa é organizada em departamentos. 
+2. Cada departamento possui um nome único, um código único e um determinado empregado que gerencia o departamento.
+3. Acompanhamos a data inicial quando o empregado começou a gerenciar o departamento. 
+4. Um departamento pode possuir diversas localizações.
+5. Um departamento controla um número de projetos, cada um deles possuindo um nome único, um código único e uma única localização.
+6. Armazenamos o nome, número da carteira de trabalho, endereço, salário, sexo e data de nascimento de cada empregado. 
+7. Um empregado é alocado a um departamento, mas pode trabalhar em diversos projetos, que não são necessariamente controlados pelo mesmo departamento. 
+8. Acompanhamos o número de horas por semana que um empregado trabalha em cada projeto. 
+9. Também acompanharemos o supervisor direto de cada empregado.
+10. Desejamos acompanhar e registrar os dependentes de cada empregado para fins de seguridade social. 
+11. Mantemos o nome, sexo, data de nascimento e grau de parentesco com o empregado e seus dependentes.
+
+Read the following description about a small hypothetical company:
+1. The company is organized into departments. 
+2. Each department has a unique name, a unique code and a specific employee who manages the department.
+3. We track the starting date when the employee started managing the department. 
+4. A department can have several locations.
+5. A department controls a number of projects, each of which has a unique name, a unique code, and a unique location.
+6. We store the name, employment card number, address, salary, gender and date of birth of each employee. 
+7. An employee is allocated to one department, but may work on several projects, which are not necessarily controlled by the same department. 
+8. We track the number of hours per week an employee works on each project. 
+9. We will also follow up with each employee's direct supervisor.
+10. We wish to track and register each employee's dependents for social security purposes. 
+11. We keep the name, gender, date of birth and degree of kinship with the employee and their dependents.
+Elaborate an entity diagram with the above description.
+
+erDiagram
+    DEPARTMENT {
+        int code PK
+        string name
+        int manager FK "Employee ID"
+        date startDate
+    }
+    LOCATION {
+        int locationID PK
+        string address
+    }
+    DEPARTMENT_LOCATION {
+        int departmentCode FK "Department Code"
+        int locationID FK "Location ID"
+    }
+    EMPLOYEE {
+        int empCardNumber PK
+        string name
+        string address
+        float salary
+        string gender
+        date birthDate
+        int supervisor FK "Employee ID"
+    }
+    PROJECT {
+        int code PK
+        string name
+        string location
+    }
+    WORKS_ON {
+        int empCardNumber FK "Employee ID"
+        int projectCode FK "Project Code"
+        float hoursPerWeek
+    }
+    DEPENDENT {
+        int depID PK
+        string name
+        string gender
+        date birthDate
+        string kinship
+        int empCardNumber FK "Employee ID"
+    }
+
 ```mermaid
 erDiagram
     DEPARTMENT {
