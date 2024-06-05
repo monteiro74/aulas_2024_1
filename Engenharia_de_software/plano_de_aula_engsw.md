@@ -276,9 +276,8 @@ Para a descrição a faça em markdown:
 2. Class diagram
 3. Sequence diagram
 4. Flow Chart
-5. Use Case Diagram
-6. Activity diagram
-7. Deployment diagram
+5. Activity diagram
+6. Deployment diagram
 
 
 ---
@@ -524,50 +523,47 @@ flowchart TD
 5. Use Case Diagram
 
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#1f77b4', 'edgeLabelBackground':'#ffffff', 'actorBorder':'#999999', 'actorTextColor': '#333333' }}}%%
-usecaseDiagram
-    actor Cliente
-    actor Atendente
-    actor Veterinario
+flowchart TD
+    A[Cliente chega na clínica] --> B[Atendente verifica disponibilidade]
+    B --> |Disponível| C[Fazer cadastro]
+    C --> D[Marcar horário]
+    D --> E[Encaminhar ao veterinário]
+    E --> F[Veterinário entrevista o cliente]
+    F --> G[Veterinário examina o animal]
+    G --> H[Veterinário anota em prontuário]
+    H --> I[Emitir receita, se necessário]
+    I --> J[Finalizar atendimento]
 
-    Cliente --> (Fazer cadastro)
-    Cliente --> (Marcar horário)
-    Atendente --> (Verificar disponibilidade)
-    Atendente --> (Fazer cadastro)
-    Atendente --> (Marcar horário)
-    Atendente --> (Finalizar atendimento)
-    Veterinario --> (Entrevistar cliente)
-    Veterinario --> (Examinar animal)
-    Veterinario --> (Emitir receita)
+    B --> |Indisponível| K[Informa indisponibilidade]
+    K --> L[Fim]
 
+    subgraph Cliente
+        A
+    end
 
+    subgraph Atendente
+        B
+        C
+        D
+        E
+        L
+    end
 
-```
-
----
-6. Activity diagram
-
-```mermaid
-activityDiagram
-    start
-    :Cliente chega na clínica;
-    :Atendente verifica disponibilidade;
-    decision Disponibilidade
-    Disponibilidade -->|Sim| :Cliente faz cadastro;
-    :Animal é encaminhado ao veterinário;
-    :Veterinário entrevista o cliente;
-    :Veterinário examina o animal;
-    :Veterinário anota em prontuário;
-    decision Receituário
-    Receituário -->|Necessário| :Receita é emitida;
-    Receituário -->|Não necessário| :Finaliza atendimento;
-    Disponibilidade -->|Não| :Informa indisponibilidade;
-    stop
+    subgraph Veterinario
+        F
+        G
+        H
+        I
+        J
+    end
 
 ```
 
+
+
+
 ---
-7. Deployment diagram
+6. Deployment diagram
 
 ```mermaid
 classDiagram
