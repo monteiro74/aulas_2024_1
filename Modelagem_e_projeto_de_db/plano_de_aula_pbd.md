@@ -188,6 +188,8 @@ Read the following description about a small hypothetical company:
 11. We keep the name, gender, date of birth and degree of kinship with the employee and their dependents.
 Elaborate an entity diagram with the above description.
 
+Exemplo do código para gerar o diagrama usando a biblioteca mermaid dentro do markdown:
+
 erDiagram
     DEPARTMENT {
         int code PK
@@ -230,6 +232,8 @@ erDiagram
         string kinship
         int empCardNumber FK "Employee ID"
     }
+
+O desenho do diagrama acima, apenas as entidades:
 
 ```mermaid
 erDiagram
@@ -275,6 +279,8 @@ erDiagram
         int empCardNumber FK "Employee ID"
     }
 ```
+
+Outro exemplo:
 
 ```mermaid
 erDiagram
@@ -331,7 +337,7 @@ erDiagram
     DEPARTAMENTO ||--o{ PROJETO : "controla"
     DEPARTAMENTO ||--o{ EMPREGADO : "aloca"
     EMPREGADO ||--o{ DEPENDENTE : "possui"
-    EMPREGADO ||--o| EMPREGADO : "supervisiona" : supervisor_id
+    EMPREGADO ||--|{ EMPREGADO : "supervisiona"
     EMPREGADO ||--o{ TRABALHA_EM : "trabalha em"
     PROJETO ||--o{ TRABALHA_EM : "alocado"
 
