@@ -15,6 +15,8 @@
   - [4. Datas de aulas e conteúdo:](#4-datas-de-aulas-e-conteúdo)
     - [4.1. Diagrama entidade relacionamento](#41-diagrama-entidade-relacionamento)
     - [4.2. Exercício modelagem (mineradora) com SQL Server:](#42-exercício-modelagem-mineradora-com-sql-server)
+  - [4.3. Exercício de modelagem:](#43-exercício-de-modelagem)
+  - [title: Order example](#title-order-example)
   - [5. Artigos:](#5-artigos)
   - [6. Unidade de avaliação:](#6-unidade-de-avaliação)
   - [7. Referências:](#7-referências)
@@ -155,6 +157,72 @@ A partir da descrição acima:
 2. Fazer um backup do banco, exportar o banco.
 3. Gerar o diagrama do banco de dados no SQL Server e exportar como imagem, o nome do arquivo de imagem deverá ter seu nome, exemplo diagrama_nome.jpg.
 4. Enviar no Sigaa o arquivo do backup do banco e a imagem até o final da aula.
+
+---
+## 4.3. Exercício de modelagem:
+
+```
+
+erDiagram
+    DEPARTMENT {
+        int code PK
+        string name
+        int manager FK "Employee ID"
+        date startDate
+    }
+    LOCATION {
+        int locationID PK
+        string address
+    }
+    DEPARTMENT_LOCATION {
+        int departmentCode FK "Department Code"
+        int locationID FK "Location ID"
+    }
+    EMPLOYEE {
+        int empCardNumber PK
+        string name
+        string address
+        float salary
+        string gender
+        date birthDate
+        int supervisor FK "Employee ID"
+    }
+    PROJECT {
+        int code PK
+        string name
+        string location
+    }
+    WORKS_ON {
+        int empCardNumber FK "Employee ID"
+        int projectCode FK "Project Code"
+        float hoursPerWeek
+    }
+    DEPENDENT {
+        int depID PK
+        string name
+        string gender
+        date birthDate
+        string kinship
+        int empCardNumber FK "Employee ID"
+    }
+
+    DEPARTMENT ||--|{ LOCATION : has
+    DEPARTMENT ||--o{ DEPARTMENT_LOCATION : has
+    EMPLOYEE ||--o| DEPARTMENT : manages
+    DEPARTMENT ||--o{ PROJECT : controls
+    EMPLOYEE ||--o{ WORKS_ON : works_on
+    PROJECT ||--o{ WORKS_ON : 
+    EMPLOYEE ||--o{ DEPENDENT : has
+    EMPLOYEE ||--|{ EMPLOYEE : supervises
+```
+
+---
+title: Order example
+---
+erDiagram
+    CUSTOMER ||--o{ ORDER : places
+    ORDER ||--|{ LINE-ITEM : contains
+    CUSTOMER }|..|{ DELIVERY-ADDRESS : uses
 
 
 
