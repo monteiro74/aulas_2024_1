@@ -524,6 +524,7 @@ flowchart TD
 5. Use Case Diagram
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#1f77b4', 'edgeLabelBackground':'#ffffff', 'actorBorder':'#999999', 'actorTextColor': '#333333' }}}%%
 usecaseDiagram
     actor Cliente
     actor Atendente
@@ -538,6 +539,7 @@ usecaseDiagram
     Veterinario --> (Entrevistar cliente)
     Veterinario --> (Examinar animal)
     Veterinario --> (Emitir receita)
+
 
 
 ```
