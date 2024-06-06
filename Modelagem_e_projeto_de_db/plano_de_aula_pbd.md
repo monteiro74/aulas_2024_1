@@ -100,7 +100,7 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 | Aula 10: 15/05/2024 | Avaliação 2. [Arquivo para a Pivot Table](https://github.com/monteiro74/aulas_2024_1/blob/main/Modelagem_e_projeto_de_db/pivot_table2_v3.xlsx). Pivot table no Excel. Intro ao PowerBI. |
 | Aula 11: 22/05/2024 | Exercícios com: SQL Server (exercício 4.2). |
 | Aula 12: 29/05/2024 | Exercícios com: SQL Server. PowerBI. MS Access. Tabela dinâmica com Excel. Conexão ODBC. |
-| Aula 13: 05/06/2024 | Exemplo de ETL. Exercícios com SQL Server.  Teoria de banco de dados. Revisão para última avaliação. [Enquete sobre a disciplina](https://forms.gle/Ui19QV48iQ7UcSC79). |
+| Aula 13: 05/06/2024 | Exemplo de ETL. Teoria de Modelo ER. [Revisão para última avaliação](https://docs.google.com/presentation/d/e/2PACX-1vQKEarXKXgH_A4HGq4e62-5teSYedLmBVqrOtHFZj-WwGgnEd7RryWt0h63K4-3aQRcw1ZJHsPLf2dR/pub?start=false&loop=false&delayms=3000). [Enquete sobre a disciplina](https://forms.gle/Ui19QV48iQ7UcSC79). |
 | Aula 14: 12/06/2024 | Avaliação 3. (revisão do modelo ER), artigos 3, 4 e 5. |
 
 Aula 12:
