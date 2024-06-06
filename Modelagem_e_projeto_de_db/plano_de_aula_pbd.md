@@ -101,7 +101,7 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 | Aula 11: 22/05/2024 | Exercícios com: SQL Server (exercício 4.2). |
 | Aula 12: 29/05/2024 | Exercícios com: SQL Server. PowerBI. MS Access. Tabela dinâmica com Excel. Conexão ODBC. |
 | Aula 13: 05/06/2024 | Exemplo de ETL. Exercícios com SQL Server.  Teoria de banco de dados. Revisão para última avaliação. [Enquete sobre a disciplina](https://forms.gle/Ui19QV48iQ7UcSC79). |
-| Aula 14: 12/06/2024 | Avaliação 3 |
+| Aula 14: 12/06/2024 | Avaliação 3. (revisão do modelo ER), artigos 3, 4 e 5. |
 
 Aula 12:
 ![Exercício da aula 12](https://raw.githubusercontent.com/monteiro74/aulas_2024_1/main/figuras/Aula12.jpg)
