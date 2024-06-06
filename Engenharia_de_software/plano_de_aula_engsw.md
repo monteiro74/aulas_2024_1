@@ -16,6 +16,7 @@
     - [4.1. Exercício](#41-exercício)
     - [4.2. Exercício 2](#42-exercício-2)
     - [4.3. Diagrama entidade relacionamento](#43-diagrama-entidade-relacionamento)
+    - [4.4. Exemplos de documentações](#44-exemplos-de-documentações)
   - [5. Links para download de ferramentas para diagramação com UML:](#5-links-para-download-de-ferramentas-para-diagramação-com-uml)
   - [6. Artigos:](#6-artigos)
   - [7. Unidade de avaliação:](#7-unidade-de-avaliação)
@@ -163,6 +164,18 @@ Extensões para o Visual Studio Code trabalhar com **Markdown**:
 
 
 ---
+### 4.4. Exemplos de documentações
+
+Documentações geradas no Doxygen e no StarUML e disponibilizadas em repositórios no github como sites online:
+
+Página no github: https://github.com/monteiro74/documentacao_doxygen
+Site: 		  https://monteiro74.github.io/documentacao_doxygen/
+
+Página no github: https://github.com/monteiro74/documentacao_uml
+Site: 		  https://monteiro74.github.io/documentacao_uml/
+
+
+---
 ## 5. Links para download de ferramentas para diagramação com UML:
 
 [Papyrus](https://eclipse.dev/papyrus/download.html)
@@ -196,7 +209,6 @@ Extensões para o Visual Studio Code trabalhar com **Markdown**:
 Avaliação 1: 28/03/2024 <br>
 Avaliação 2: 09/05/2024 <br>
 Avaliação 3: 20/06/2024 <br>
-PF: 20/06/2024 <br>
 
 ---
 ## 8. Referências:
@@ -247,6 +259,7 @@ Um site interessante para livros usados é a Estante Virtual: https://www.estant
 ## 14. Como estudar
 
 https://www.instagram.com/reel/C55lFTMAL_A/?igsh=ZTR6OW1jNmRyeTZ2
+
 
 
 ---
