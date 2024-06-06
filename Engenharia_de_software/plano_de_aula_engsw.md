@@ -180,6 +180,8 @@ Página no github: https://github.com/monteiro74/documentacao_uml
 Site: 		  https://monteiro74.github.io/documentacao_uml/
 
 
+Como criar uma página web no github: https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site
+
 ---
 ## 5. Links para download de ferramentas para diagramação com UML:
 
