@@ -110,7 +110,7 @@ A 1ª avaliação terá o conteúdo das aulas de 1 a 5, a 2ª avaliação terá 
 | Aula 11: 16/05/2024 | Resolução de exercício (continuação da aula 8). |
 | Aula 12: 23/05/2024 | Resolução de exercício. [Documento de projeto](https://github.com/monteiro74/aulas_2024_1/blob/main/Engenharia_de_software/Doc_projeto_NOME_Aluno_v1.docx) |
 | Aula 13: 06/06/2024 | [Softwares para documentação de software](https://docs.google.com/presentation/d/e/2PACX-1vR7CikXVwbyw2xKPOa3vYfWyYLly43TTQFMN7Gf-CsFrTerf4CS425T68vvaV2Q3xvRbTajLSMwZ069/pub?start=false&loop=false&delayms=3000). [Webview](https://docs.google.com/presentation/d/e/2PACX-1vSj3hTzQTfLef-ahfgSfVfWKL9XwKZq-1qB4OAWKV6yJ7vjCZAgYPPTUcfRWM88HXmIYGwXfsPF1iPr/pub?start=false&loop=false&delayms=3000). Documentação via páginas no GitHub. Revisão de UML + métodos ágeis. [Enquete sobre a disciplina](https://forms.gle/kE7KMNd98nvQDR636). |
-| Aula 14: 20/06/2024 | Avaliação 3. [UML](https://docs.google.com/presentation/d/e/2PACX-1vQfIrCKm1uiza7ix1OG4T2CsAUZ16o26Ltk5CTrX964APK10iPlcZGBlQyUb56yJiUj5kYvjwCFg9tK/pub?start=false&loop=false&delayms=3000) + [Scrum](https://docs.google.com/presentation/d/e/2PACX-1vSIDbUXkEoCAlUOsaLHjv6uhpqZDpZwt94pINASRv-AvQKKseEo5SeOISa2vJ1GVxUEs1BVmrSymIrH/pub?start=false&loop=false&delayms=3000) + Artigos 3, 4 e 5. |
+| Aula 14: 20/06/2024 | Avaliação 3. [UML](https://docs.google.com/presentation/d/e/2PACX-1vTWYlWCwgBO8BhD8xwLPJKumWe5Wy8SeZMQ-vVTsAXcDSlVxb6sxYjbcvgdRMwtY18cayCQ0FAPeFy1/pub?start=false&loop=false&delayms=3000) + [Scrum](https://docs.google.com/presentation/d/e/2PACX-1vR-O606HLeQMUb5DfhKtMWi65jjpvhjeCJrY-wxFkpVYqGb5b6YJsnOZB3G35Hh_2YtjOXO74PlXw-5/pub?start=false&loop=false&delayms=3000) + Artigos 3, 4 e 5. |
 
 
 ---
