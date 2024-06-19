@@ -24,9 +24,16 @@
   - [9. Demais Disciplinas:](#9-demais-disciplinas)
   - [10. Lista de ferramentas:](#10-lista-de-ferramentas)
   - [11. Curiosidade... onde adquirir livros baratos?](#11-curiosidade-onde-adquirir-livros-baratos)
-  - [12. Cursos **gratuítos**:](#12-cursos-gratuítos)
+  - [12. Cursos gratuítos:](#12-cursos-gratuítos)
   - [13. Como estudar](#13-como-estudar)
   - [14. Resolução de exercícios:](#14-resolução-de-exercícios)
+    - [14.1. Descrição do exercício:](#141-descrição-do-exercício)
+    - [14.2. Diagrama ER](#142-diagrama-er)
+    - [14.3. Class diagram](#143-class-diagram)
+    - [14.4.  Sequence diagram](#144--sequence-diagram)
+    - [14.5.  Flow Chart](#145--flow-chart)
+    - [14.6.  Use Case Diagram](#146--use-case-diagram)
+    - [14.7.  Deployment diagram](#147--deployment-diagram)
 
 
 
@@ -246,7 +253,7 @@ Um site interessante para livros usados é a Estante Virtual: https://www.estant
 
 
 ---
-## 12. Cursos **gratuítos**:
+## 12. Cursos gratuítos:
 
 * [Receita para Levantar Requisitos de Software](https://www.udemy.com/course/receita-para-levantar-requisitos-de-software/)
 
@@ -265,7 +272,7 @@ https://www.instagram.com/reel/C55lFTMAL_A/?igsh=ZTR6OW1jNmRyeTZ2
 ---
 ## 14. Resolução de exercícios:
 
-Descrição do exercício:
+### 14.1. Descrição do exercício:
 Uma clínica veterinária chamada ABC atende apenas os animais: gatos e cachorros. 
 Os clientes devem fazer um cadastro de si e dos animais. 
 Os clientes devem informar as condições nas quais os animais chegam. 
@@ -294,7 +301,7 @@ Para a descrição a faça em markdown:
 
 
 ---
-1. Diagrama ER
+### 14.2. Diagrama ER
    
 ```mermaid
 erDiagram
@@ -366,7 +373,7 @@ erDiagram
 ```
 
 ---
-2. Class diagram
+### 14.3. Class diagram
 
 ```mermaid
 classDiagram
@@ -491,7 +498,7 @@ classDiagram
 ```
 
 ---
-3. Sequence diagram
+### 14.4.  Sequence diagram
 
 ```mermaid
 sequenceDiagram
@@ -514,7 +521,7 @@ sequenceDiagram
 ```
 
 ---
-4. Flow Chart
+### 14.5.  Flow Chart
 
 ```mermaid
 flowchart TD
@@ -533,7 +540,9 @@ flowchart TD
 ```
 
 ---
-5. Use Case Diagram
+### 14.6.  Use Case Diagram
+
+Observação: mermaid não tem os símbolos para representar o Ator ("bonequinho"), então eles ficaram representados usando um fluxograma simples.
 
 ```mermaid
 flowchart TD
@@ -576,7 +585,9 @@ flowchart TD
 
 
 ---
-6. Deployment diagram
+### 14.7.  Deployment diagram
+
+Observação: mermaid não tem os símbolos para o deployment diagrama, então eles ficaram representados usando o símbolo de classe !
 
 ```mermaid
 classDiagram
