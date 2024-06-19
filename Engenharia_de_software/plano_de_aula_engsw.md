@@ -166,6 +166,8 @@ Extensões para o Visual Studio Code trabalhar com **Markdown**:
 ---
 ### 4.3. Diagrama entidade relacionamento
 
+Diagrama das tabelas do banco que vamos usar com a ferramenta IDE RAD Scriptcase nos exercícios em sala de aula:
+
 ![https://raw.githubusercontent.com/monteiro74/aulas_2024_1/main/figuras/der_engsw.png](https://raw.githubusercontent.com/monteiro74/aulas_2024_1/main/figuras/der_engsw.png)
 
 
