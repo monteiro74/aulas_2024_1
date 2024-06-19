@@ -22,12 +22,11 @@
   - [7. Unidade de avaliação:](#7-unidade-de-avaliação)
   - [8. Referências:](#8-referências)
   - [9. Demais Disciplinas:](#9-demais-disciplinas)
-  - [10. Demais Disciplinas:](#10-demais-disciplinas)
-  - [11. Lista de ferramentas:](#11-lista-de-ferramentas)
-  - [12. Curiosidade... onde adquirir livros baratos?](#12-curiosidade-onde-adquirir-livros-baratos)
-  - [13. Cursos **gratuítos**:](#13-cursos-gratuítos)
-  - [14. Como estudar](#14-como-estudar)
-  - [15. Resolução de exercícios:](#15-resolução-de-exercícios)
+  - [10. Lista de ferramentas:](#10-lista-de-ferramentas)
+  - [11. Curiosidade... onde adquirir livros baratos?](#11-curiosidade-onde-adquirir-livros-baratos)
+  - [12. Cursos **gratuítos**:](#12-cursos-gratuítos)
+  - [13. Como estudar](#13-como-estudar)
+  - [14. Resolução de exercícios:](#14-resolução-de-exercícios)
 
 
 
@@ -233,27 +232,21 @@ Avaliação 3: 20/06/2024 <br>
 2. Gestão de projeto de software https://github.com/monteiro74/aulas_2023/blob/main/Gerencia_de_projetos/plano_de_aula_gps.md
 3. Modelagem e projeto de banco de dados https://github.com/monteiro74/aulas_2023/blob/main/Modelagem_e_projeto_de_bd/plano_de_aula_pbd.md
 
----
-## 10. Demais Disciplinas:
-
-1. Engenharia de Software 
-2. Gestão de projeto de software 
-3. Modelagem e projeto de banco de dados 
 
 ---
-## 11. Lista de ferramentas:
+## 10. Lista de ferramentas:
 [Lista de ferramentas de desenvolvimento de software](https://github.com/monteiro74/lista_de_ferramentas)
 
 
 ---
-## 12. Curiosidade... onde adquirir livros baratos? 
+## 11. Curiosidade... onde adquirir livros baratos? 
 A Amazon tem a opção eletrônica via Kindle e as vezes tem livros usados também.
 
 Um site interessante para livros usados é a Estante Virtual: https://www.estantevirtual.com.br/
 
 
 ---
-## 13. Cursos **gratuítos**:
+## 12. Cursos **gratuítos**:
 
 * [Receita para Levantar Requisitos de Software](https://www.udemy.com/course/receita-para-levantar-requisitos-de-software/)
 
@@ -263,14 +256,14 @@ Um site interessante para livros usados é a Estante Virtual: https://www.estant
 
 
 ---
-## 14. Como estudar
+## 13. Como estudar
 
 https://www.instagram.com/reel/C55lFTMAL_A/?igsh=ZTR6OW1jNmRyeTZ2
 
 
 
 ---
-## 15. Resolução de exercícios:
+## 14. Resolução de exercícios:
 
 Descrição do exercício:
 Uma clínica veterinária chamada ABC atende apenas os animais: gatos e cachorros. 
