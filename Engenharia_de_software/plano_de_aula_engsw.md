@@ -156,7 +156,7 @@ Para este exercício faça:
 
 ### 4.2. Exercício 2
 
-Exercício para o dia 23/05/2024.
+Exercício para o dia 23/05/2024. Vamos criar um repositório no github e alimentar a página principal (README.MD) usando markdown, para isso sugerimos as ferramentas: github desktop, visual studio code e algumas extensões citadas abaixo:
 
 Extensões para o Visual Studio Code trabalhar com **Markdown**:
 
